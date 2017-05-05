@@ -1,0 +1,132 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Schema Namespace="ChemDBModel" Alias="Self" p1:UseStrongSpatialTypes="false" xmlns:annotation="http://schemas.microsoft.com/ado/2009/02/edm/annotation" xmlns:p1="http://schemas.microsoft.com/ado/2009/02/edm/annotation" xmlns="http://schemas.microsoft.com/ado/2009/11/edm">
+  <EntityContainer Name="ChemDBEntities" p1:LazyLoadingEnabled="true">
+    <EntitySet Name="Entity" EntityType="ChemDBModel.Entity" />
+    <EntitySet Name="Guide" EntityType="ChemDBModel.Guide" />
+    <EntitySet Name="Substance" EntityType="ChemDBModel.Substance" />
+    <EntitySet Name="Substance_Entity" EntityType="ChemDBModel.Substance_Entity" />
+    <EntitySet Name="Substance_Guide" EntityType="ChemDBModel.Substance_Guide" />
+    <EntitySet Name="Substance_Synonym" EntityType="ChemDBModel.Substance_Synonym" />
+    <EntitySet Name="Synonym" EntityType="ChemDBModel.Synonym" />
+    <AssociationSet Name="FK_Entity" Association="ChemDBModel.FK_Entity">
+      <End Role="Entity" EntitySet="Entity" />
+      <End Role="Substance_Entity" EntitySet="Substance_Entity" />
+    </AssociationSet>
+    <AssociationSet Name="FK_Guide" Association="ChemDBModel.FK_Guide">
+      <End Role="Guide" EntitySet="Guide" />
+      <End Role="Substance_Guide" EntitySet="Substance_Guide" />
+    </AssociationSet>
+    <AssociationSet Name="FK_Synonym" Association="ChemDBModel.FK_Synonym">
+      <End Role="Synonym" EntitySet="Synonym" />
+      <End Role="Substance_Synonym" EntitySet="Substance_Synonym" />
+    </AssociationSet>
+  </EntityContainer>
+  <EntityType Name="Entity">
+    <Key>
+      <PropertyRef Name="Id" />
+    </Key>
+    <Property Name="Id" Type="Guid" Nullable="false" />
+    <Property Name="Name" Type="String" MaxLength="50" Unicode="true" FixedLength="false" />
+    <Property Name="Address" Type="String" MaxLength="150" Unicode="true" FixedLength="false" />
+    <Property Name="Town" Type="String" MaxLength="50" Unicode="true" FixedLength="false" />
+    <Property Name="Coord_x" Type="String" MaxLength="100" Unicode="true" FixedLength="false" />
+    <Property Name="Coord_y" Type="String" MaxLength="100" Unicode="true" FixedLength="false" />
+    <Property Name="Organization" Type="String" MaxLength="50" Unicode="true" FixedLength="false" />
+    <Property Name="Phone" Type="String" MaxLength="20" Unicode="true" FixedLength="false" />
+    <Property Name="Email" Type="String" MaxLength="50" Unicode="true" FixedLength="false" />
+    <Property Name="Fax" Type="String" MaxLength="100" Unicode="true" FixedLength="false" />
+    <NavigationProperty Name="Substance_Entity" Relationship="ChemDBModel.FK_Entity" FromRole="Entity" ToRole="Substance_Entity" />
+  </EntityType>
+  <EntityType Name="Guide">
+    <Key>
+      <PropertyRef Name="Id" />
+    </Key>
+    <Property Name="Id" Type="Guid" Nullable="false" />
+    <Property Name="Name" Type="String" MaxLength="50" Unicode="true" FixedLength="false" />
+    <Property Name="Type" Type="Byte" />
+    <NavigationProperty Name="Substance_Guide" Relationship="ChemDBModel.FK_Guide" FromRole="Guide" ToRole="Substance_Guide" />
+  </EntityType>
+  <EntityType Name="Substance">
+    <Key>
+      <PropertyRef Name="Id" />
+    </Key>
+    <Property Name="Id" Type="Guid" Nullable="false" />
+    <Property Name="ProductName" Type="String" Nullable="false" MaxLength="50" Unicode="true" FixedLength="false" />
+    <Property Name="FormulaHill" Type="String" Nullable="false" MaxLength="30" Unicode="true" FixedLength="false" />
+    <Property Name="CAS" Type="String" MaxLength="10" Unicode="true" FixedLength="false" />
+    <Property Name="CPCU" Type="String" MaxLength="50" Unicode="true" FixedLength="false" />
+    <Property Name="UN" Type="String" MaxLength="100" Unicode="true" FixedLength="false" />
+  </EntityType>
+  <EntityType Name="Substance_Entity">
+    <Key>
+      <PropertyRef Name="Id" />
+    </Key>
+    <Property Name="Id" Type="Guid" Nullable="false" />
+    <Property Name="IdSubstance" Type="Guid" Nullable="false" />
+    <Property Name="IdEntity" Type="Guid" Nullable="false" />
+    <Property Name="Type" Type="Byte" />
+    <NavigationProperty Name="Entity" Relationship="ChemDBModel.FK_Entity" FromRole="Substance_Entity" ToRole="Entity" />
+  </EntityType>
+  <EntityType Name="Substance_Guide">
+    <Key>
+      <PropertyRef Name="Id" />
+    </Key>
+    <Property Name="Id" Type="Guid" Nullable="false" />
+    <Property Name="IdSubstance" Type="Guid" Nullable="false" />
+    <Property Name="IdGuide" Type="Guid" Nullable="false" />
+    <NavigationProperty Name="Guide" Relationship="ChemDBModel.FK_Guide" FromRole="Substance_Guide" ToRole="Guide" />
+  </EntityType>
+  <EntityType Name="Substance_Synonym">
+    <Key>
+      <PropertyRef Name="Id" />
+    </Key>
+    <Property Name="Id" Type="Guid" Nullable="false" />
+    <Property Name="IdSubstance" Type="Guid" Nullable="false" />
+    <Property Name="IdSynonym" Type="Guid" Nullable="false" />
+    <NavigationProperty Name="Synonym" Relationship="ChemDBModel.FK_Synonym" FromRole="Substance_Synonym" ToRole="Synonym" />
+  </EntityType>
+  <EntityType Name="Synonym">
+    <Key>
+      <PropertyRef Name="Id" />
+    </Key>
+    <Property Name="Id" Type="Guid" Nullable="false" />
+    <Property Name="Name" Type="String" Nullable="false" MaxLength="50" Unicode="true" FixedLength="false" />
+    <NavigationProperty Name="Substance_Synonym" Relationship="ChemDBModel.FK_Synonym" FromRole="Synonym" ToRole="Substance_Synonym" />
+  </EntityType>
+  <Association Name="FK_Entity">
+    <End Role="Entity" Type="ChemDBModel.Entity" Multiplicity="1" />
+    <End Role="Substance_Entity" Type="ChemDBModel.Substance_Entity" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="Entity">
+        <PropertyRef Name="Id" />
+      </Principal>
+      <Dependent Role="Substance_Entity">
+        <PropertyRef Name="IdEntity" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK_Guide">
+    <End Role="Guide" Type="ChemDBModel.Guide" Multiplicity="1" />
+    <End Role="Substance_Guide" Type="ChemDBModel.Substance_Guide" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="Guide">
+        <PropertyRef Name="Id" />
+      </Principal>
+      <Dependent Role="Substance_Guide">
+        <PropertyRef Name="IdGuide" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK_Synonym">
+    <End Role="Synonym" Type="ChemDBModel.Synonym" Multiplicity="1" />
+    <End Role="Substance_Synonym" Type="ChemDBModel.Substance_Synonym" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="Synonym">
+        <PropertyRef Name="Id" />
+      </Principal>
+      <Dependent Role="Substance_Synonym">
+        <PropertyRef Name="IdSynonym" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+</Schema>

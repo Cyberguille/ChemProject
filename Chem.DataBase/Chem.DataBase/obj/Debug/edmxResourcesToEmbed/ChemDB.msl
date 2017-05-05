@@ -1,0 +1,78 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Mapping Space="C-S" xmlns="http://schemas.microsoft.com/ado/2009/11/mapping/cs">
+  <EntityContainerMapping StorageEntityContainer="ChemDBModelStoreContainer" CdmEntityContainer="ChemDBEntities">
+    <EntitySetMapping Name="Entity">
+      <EntityTypeMapping TypeName="ChemDBModel.Entity">
+        <MappingFragment StoreEntitySet="Entity">
+          <ScalarProperty Name="Id" ColumnName="Id" />
+          <ScalarProperty Name="Name" ColumnName="Name" />
+          <ScalarProperty Name="Address" ColumnName="Address" />
+          <ScalarProperty Name="Town" ColumnName="Town" />
+          <ScalarProperty Name="Coord_x" ColumnName="Coord_x" />
+          <ScalarProperty Name="Coord_y" ColumnName="Coord_y" />
+          <ScalarProperty Name="Organization" ColumnName="Organization" />
+          <ScalarProperty Name="Phone" ColumnName="Phone" />
+          <ScalarProperty Name="Email" ColumnName="Email" />
+          <ScalarProperty Name="Fax" ColumnName="Fax" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="Guide">
+      <EntityTypeMapping TypeName="ChemDBModel.Guide">
+        <MappingFragment StoreEntitySet="Guide">
+          <ScalarProperty Name="Id" ColumnName="Id" />
+          <ScalarProperty Name="Name" ColumnName="Name" />
+          <ScalarProperty Name="Type" ColumnName="Type" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="Substance">
+      <EntityTypeMapping TypeName="ChemDBModel.Substance">
+        <MappingFragment StoreEntitySet="Substance">
+          <ScalarProperty Name="Id" ColumnName="Id" />
+          <ScalarProperty Name="ProductName" ColumnName="ProductName" />
+          <ScalarProperty Name="FormulaHill" ColumnName="FormulaHill" />
+          <ScalarProperty Name="CAS" ColumnName="CAS" />
+          <ScalarProperty Name="CPCU" ColumnName="CPCU" />
+          <ScalarProperty Name="UN" ColumnName="UN" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="Substance_Entity">
+      <EntityTypeMapping TypeName="ChemDBModel.Substance_Entity">
+        <MappingFragment StoreEntitySet="Substance_Entity">
+          <ScalarProperty Name="Id" ColumnName="Id" />
+          <ScalarProperty Name="IdSubstance" ColumnName="IdSubstance" />
+          <ScalarProperty Name="IdEntity" ColumnName="IdEntity" />
+          <ScalarProperty Name="Type" ColumnName="Type" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="Substance_Guide">
+      <EntityTypeMapping TypeName="ChemDBModel.Substance_Guide">
+        <MappingFragment StoreEntitySet="Substance_Guide">
+          <ScalarProperty Name="Id" ColumnName="Id" />
+          <ScalarProperty Name="IdSubstance" ColumnName="IdSubstance" />
+          <ScalarProperty Name="IdGuide" ColumnName="IdGuide" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="Substance_Synonym">
+      <EntityTypeMapping TypeName="ChemDBModel.Substance_Synonym">
+        <MappingFragment StoreEntitySet="Substance_Synonym">
+          <ScalarProperty Name="Id" ColumnName="Id" />
+          <ScalarProperty Name="IdSubstance" ColumnName="IdSubstance" />
+          <ScalarProperty Name="IdSynonym" ColumnName="IdSynonym" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="Synonym">
+      <EntityTypeMapping TypeName="ChemDBModel.Synonym">
+        <MappingFragment StoreEntitySet="Synonym">
+          <ScalarProperty Name="Id" ColumnName="Id" />
+          <ScalarProperty Name="Name" ColumnName="Name" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+  </EntityContainerMapping>
+</Mapping>

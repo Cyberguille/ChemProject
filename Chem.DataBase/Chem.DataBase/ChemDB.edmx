@@ -1,0 +1,355 @@
+<edmx:Edmx Version="3.0" xmlns:edmx="http://schemas.microsoft.com/ado/2009/11/edmx">
+<!-- EF Runtime content -->
+<edmx:Runtime>
+<!-- SSDL content -->
+<edmx:StorageModels>
+<Schema Namespace="ChemDBModel.Store" Alias="Self" Provider="System.Data.SqlServerCe.4.0" ProviderManifestToken="4.0" xmlns:store="http://schemas.microsoft.com/ado/2007/12/edm/EntityStoreSchemaGenerator" xmlns="http://schemas.microsoft.com/ado/2009/11/edm/ssdl">
+  <EntityContainer Name="ChemDBModelStoreContainer">
+    <EntitySet Name="Entity" EntityType="ChemDBModel.Store.Entity" store:Type="Tables" />
+    <EntitySet Name="Guide" EntityType="ChemDBModel.Store.Guide" store:Type="Tables" />
+    <EntitySet Name="Substance" EntityType="ChemDBModel.Store.Substance" store:Type="Tables" />
+    <EntitySet Name="Substance_Entity" EntityType="ChemDBModel.Store.Substance_Entity" store:Type="Tables" />
+    <EntitySet Name="Substance_Guide" EntityType="ChemDBModel.Store.Substance_Guide" store:Type="Tables" />
+    <EntitySet Name="Substance_Synonym" EntityType="ChemDBModel.Store.Substance_Synonym" store:Type="Tables" />
+    <EntitySet Name="Synonym" EntityType="ChemDBModel.Store.Synonym" store:Type="Tables" />
+    <AssociationSet Name="FK_Entity" Association="ChemDBModel.Store.FK_Entity">
+      <End Role="Entity" EntitySet="Entity" />
+      <End Role="Substance_Entity" EntitySet="Substance_Entity" />
+    </AssociationSet>
+    <AssociationSet Name="FK_Guide" Association="ChemDBModel.Store.FK_Guide">
+      <End Role="Guide" EntitySet="Guide" />
+      <End Role="Substance_Guide" EntitySet="Substance_Guide" />
+    </AssociationSet>
+    <AssociationSet Name="FK_Synonym" Association="ChemDBModel.Store.FK_Synonym">
+      <End Role="Synonym" EntitySet="Synonym" />
+      <End Role="Substance_Synonym" EntitySet="Substance_Synonym" />
+    </AssociationSet>
+  </EntityContainer>
+  <EntityType Name="Entity">
+    <Key>
+      <PropertyRef Name="Id" />
+    </Key>
+    <Property Name="Id" Type="uniqueidentifier" Nullable="false" />
+    <Property Name="Name" Type="nvarchar" MaxLength="50" />
+    <Property Name="Address" Type="nvarchar" MaxLength="150" />
+    <Property Name="Town" Type="nvarchar" MaxLength="50" />
+    <Property Name="Coord_x" Type="nvarchar" MaxLength="100" />
+    <Property Name="Coord_y" Type="nvarchar" MaxLength="100" />
+    <Property Name="Organization" Type="nvarchar" MaxLength="50" />
+    <Property Name="Phone" Type="nvarchar" MaxLength="20" />
+    <Property Name="Email" Type="nvarchar" MaxLength="50" />
+    <Property Name="Fax" Type="nvarchar" MaxLength="100" />
+  </EntityType>
+  <EntityType Name="Guide">
+    <Key>
+      <PropertyRef Name="Id" />
+    </Key>
+    <Property Name="Id" Type="uniqueidentifier" Nullable="false" />
+    <Property Name="Name" Type="nvarchar" MaxLength="50" />
+    <Property Name="Type" Type="tinyint" />
+  </EntityType>
+  <!--Errors Found During Generation:
+warning 6035: The relationship 'FK_Substance' has columns that are not part of the key of the table on the primary side of the relationship. The relationship was excluded.
+-->
+  <EntityType Name="Substance">
+    <Key>
+      <PropertyRef Name="Id" />
+    </Key>
+    <Property Name="Id" Type="uniqueidentifier" Nullable="false" />
+    <Property Name="ProductName" Type="nvarchar" Nullable="false" MaxLength="50" />
+    <Property Name="FormulaHill" Type="nvarchar" Nullable="false" MaxLength="30" />
+    <Property Name="CAS" Type="nvarchar" MaxLength="10" />
+    <Property Name="CPCU" Type="nvarchar" MaxLength="50" />
+    <Property Name="UN" Type="nvarchar" MaxLength="100" />
+  </EntityType>
+  <EntityType Name="Substance_Entity">
+    <Key>
+      <PropertyRef Name="Id" />
+    </Key>
+    <Property Name="Id" Type="uniqueidentifier" Nullable="false" />
+    <Property Name="IdSubstance" Type="uniqueidentifier" Nullable="false" />
+    <Property Name="IdEntity" Type="uniqueidentifier" Nullable="false" />
+    <Property Name="Type" Type="tinyint" />
+  </EntityType>
+  <EntityType Name="Substance_Guide">
+    <Key>
+      <PropertyRef Name="Id" />
+    </Key>
+    <Property Name="Id" Type="uniqueidentifier" Nullable="false" />
+    <Property Name="IdSubstance" Type="uniqueidentifier" Nullable="false" />
+    <Property Name="IdGuide" Type="uniqueidentifier" Nullable="false" />
+  </EntityType>
+  <EntityType Name="Substance_Synonym">
+    <Key>
+      <PropertyRef Name="Id" />
+    </Key>
+    <Property Name="Id" Type="uniqueidentifier" Nullable="false" />
+    <Property Name="IdSubstance" Type="uniqueidentifier" Nullable="false" />
+    <Property Name="IdSynonym" Type="uniqueidentifier" Nullable="false" />
+  </EntityType>
+  <EntityType Name="Synonym">
+    <Key>
+      <PropertyRef Name="Id" />
+    </Key>
+    <Property Name="Id" Type="uniqueidentifier" Nullable="false" />
+    <Property Name="Name" Type="nvarchar" Nullable="false" MaxLength="50" />
+  </EntityType>
+  <Association Name="FK_Entity">
+    <End Role="Entity" Type="ChemDBModel.Store.Entity" Multiplicity="1" />
+    <End Role="Substance_Entity" Type="ChemDBModel.Store.Substance_Entity" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="Entity">
+        <PropertyRef Name="Id" />
+      </Principal>
+      <Dependent Role="Substance_Entity">
+        <PropertyRef Name="IdEntity" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK_Guide">
+    <End Role="Guide" Type="ChemDBModel.Store.Guide" Multiplicity="1" />
+    <End Role="Substance_Guide" Type="ChemDBModel.Store.Substance_Guide" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="Guide">
+        <PropertyRef Name="Id" />
+      </Principal>
+      <Dependent Role="Substance_Guide">
+        <PropertyRef Name="IdGuide" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK_Synonym">
+    <End Role="Synonym" Type="ChemDBModel.Store.Synonym" Multiplicity="1" />
+    <End Role="Substance_Synonym" Type="ChemDBModel.Store.Substance_Synonym" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="Synonym">
+        <PropertyRef Name="Id" />
+      </Principal>
+      <Dependent Role="Substance_Synonym">
+        <PropertyRef Name="IdSynonym" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+</Schema>
+</edmx:StorageModels>
+<!-- CSDL content -->
+<edmx:ConceptualModels>
+<Schema Namespace="ChemDBModel" Alias="Self" p1:UseStrongSpatialTypes="false" xmlns:annotation="http://schemas.microsoft.com/ado/2009/02/edm/annotation" xmlns:p1="http://schemas.microsoft.com/ado/2009/02/edm/annotation" xmlns="http://schemas.microsoft.com/ado/2009/11/edm">
+  <EntityContainer Name="ChemDBEntities" p1:LazyLoadingEnabled="true">
+    <EntitySet Name="Entity" EntityType="ChemDBModel.Entity" />
+    <EntitySet Name="Guide" EntityType="ChemDBModel.Guide" />
+    <EntitySet Name="Substance" EntityType="ChemDBModel.Substance" />
+    <EntitySet Name="Substance_Entity" EntityType="ChemDBModel.Substance_Entity" />
+    <EntitySet Name="Substance_Guide" EntityType="ChemDBModel.Substance_Guide" />
+    <EntitySet Name="Substance_Synonym" EntityType="ChemDBModel.Substance_Synonym" />
+    <EntitySet Name="Synonym" EntityType="ChemDBModel.Synonym" />
+    <AssociationSet Name="FK_Entity" Association="ChemDBModel.FK_Entity">
+      <End Role="Entity" EntitySet="Entity" />
+      <End Role="Substance_Entity" EntitySet="Substance_Entity" />
+    </AssociationSet>
+    <AssociationSet Name="FK_Guide" Association="ChemDBModel.FK_Guide">
+      <End Role="Guide" EntitySet="Guide" />
+      <End Role="Substance_Guide" EntitySet="Substance_Guide" />
+    </AssociationSet>
+    <AssociationSet Name="FK_Synonym" Association="ChemDBModel.FK_Synonym">
+      <End Role="Synonym" EntitySet="Synonym" />
+      <End Role="Substance_Synonym" EntitySet="Substance_Synonym" />
+    </AssociationSet>
+  </EntityContainer>
+  <EntityType Name="Entity">
+    <Key>
+      <PropertyRef Name="Id" />
+    </Key>
+    <Property Name="Id" Type="Guid" Nullable="false" />
+    <Property Name="Name" Type="String" MaxLength="50" Unicode="true" FixedLength="false" />
+    <Property Name="Address" Type="String" MaxLength="150" Unicode="true" FixedLength="false" />
+    <Property Name="Town" Type="String" MaxLength="50" Unicode="true" FixedLength="false" />
+    <Property Name="Coord_x" Type="String" MaxLength="100" Unicode="true" FixedLength="false" />
+    <Property Name="Coord_y" Type="String" MaxLength="100" Unicode="true" FixedLength="false" />
+    <Property Name="Organization" Type="String" MaxLength="50" Unicode="true" FixedLength="false" />
+    <Property Name="Phone" Type="String" MaxLength="20" Unicode="true" FixedLength="false" />
+    <Property Name="Email" Type="String" MaxLength="50" Unicode="true" FixedLength="false" />
+    <Property Name="Fax" Type="String" MaxLength="100" Unicode="true" FixedLength="false" />
+    <NavigationProperty Name="Substance_Entity" Relationship="ChemDBModel.FK_Entity" FromRole="Entity" ToRole="Substance_Entity" />
+  </EntityType>
+  <EntityType Name="Guide">
+    <Key>
+      <PropertyRef Name="Id" />
+    </Key>
+    <Property Name="Id" Type="Guid" Nullable="false" />
+    <Property Name="Name" Type="String" MaxLength="50" Unicode="true" FixedLength="false" />
+    <Property Name="Type" Type="Byte" />
+    <NavigationProperty Name="Substance_Guide" Relationship="ChemDBModel.FK_Guide" FromRole="Guide" ToRole="Substance_Guide" />
+  </EntityType>
+  <EntityType Name="Substance">
+    <Key>
+      <PropertyRef Name="Id" />
+    </Key>
+    <Property Name="Id" Type="Guid" Nullable="false" />
+    <Property Name="ProductName" Type="String" Nullable="false" MaxLength="50" Unicode="true" FixedLength="false" />
+    <Property Name="FormulaHill" Type="String" Nullable="false" MaxLength="30" Unicode="true" FixedLength="false" />
+    <Property Name="CAS" Type="String" MaxLength="10" Unicode="true" FixedLength="false" />
+    <Property Name="CPCU" Type="String" MaxLength="50" Unicode="true" FixedLength="false" />
+    <Property Name="UN" Type="String" MaxLength="100" Unicode="true" FixedLength="false" />
+  </EntityType>
+  <EntityType Name="Substance_Entity">
+    <Key>
+      <PropertyRef Name="Id" />
+    </Key>
+    <Property Name="Id" Type="Guid" Nullable="false" />
+    <Property Name="IdSubstance" Type="Guid" Nullable="false" />
+    <Property Name="IdEntity" Type="Guid" Nullable="false" />
+    <Property Name="Type" Type="Byte" />
+    <NavigationProperty Name="Entity" Relationship="ChemDBModel.FK_Entity" FromRole="Substance_Entity" ToRole="Entity" />
+  </EntityType>
+  <EntityType Name="Substance_Guide">
+    <Key>
+      <PropertyRef Name="Id" />
+    </Key>
+    <Property Name="Id" Type="Guid" Nullable="false" />
+    <Property Name="IdSubstance" Type="Guid" Nullable="false" />
+    <Property Name="IdGuide" Type="Guid" Nullable="false" />
+    <NavigationProperty Name="Guide" Relationship="ChemDBModel.FK_Guide" FromRole="Substance_Guide" ToRole="Guide" />
+  </EntityType>
+  <EntityType Name="Substance_Synonym">
+    <Key>
+      <PropertyRef Name="Id" />
+    </Key>
+    <Property Name="Id" Type="Guid" Nullable="false" />
+    <Property Name="IdSubstance" Type="Guid" Nullable="false" />
+    <Property Name="IdSynonym" Type="Guid" Nullable="false" />
+    <NavigationProperty Name="Synonym" Relationship="ChemDBModel.FK_Synonym" FromRole="Substance_Synonym" ToRole="Synonym" />
+  </EntityType>
+  <EntityType Name="Synonym">
+    <Key>
+      <PropertyRef Name="Id" />
+    </Key>
+    <Property Name="Id" Type="Guid" Nullable="false" />
+    <Property Name="Name" Type="String" Nullable="false" MaxLength="50" Unicode="true" FixedLength="false" />
+    <NavigationProperty Name="Substance_Synonym" Relationship="ChemDBModel.FK_Synonym" FromRole="Synonym" ToRole="Substance_Synonym" />
+  </EntityType>
+  <Association Name="FK_Entity">
+    <End Role="Entity" Type="ChemDBModel.Entity" Multiplicity="1" />
+    <End Role="Substance_Entity" Type="ChemDBModel.Substance_Entity" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="Entity">
+        <PropertyRef Name="Id" />
+      </Principal>
+      <Dependent Role="Substance_Entity">
+        <PropertyRef Name="IdEntity" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK_Guide">
+    <End Role="Guide" Type="ChemDBModel.Guide" Multiplicity="1" />
+    <End Role="Substance_Guide" Type="ChemDBModel.Substance_Guide" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="Guide">
+        <PropertyRef Name="Id" />
+      </Principal>
+      <Dependent Role="Substance_Guide">
+        <PropertyRef Name="IdGuide" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK_Synonym">
+    <End Role="Synonym" Type="ChemDBModel.Synonym" Multiplicity="1" />
+    <End Role="Substance_Synonym" Type="ChemDBModel.Substance_Synonym" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="Synonym">
+        <PropertyRef Name="Id" />
+      </Principal>
+      <Dependent Role="Substance_Synonym">
+        <PropertyRef Name="IdSynonym" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+</Schema>
+</edmx:ConceptualModels>
+<!-- C-S mapping content -->
+<edmx:Mappings>
+<Mapping Space="C-S" xmlns="http://schemas.microsoft.com/ado/2009/11/mapping/cs">
+  <EntityContainerMapping StorageEntityContainer="ChemDBModelStoreContainer" CdmEntityContainer="ChemDBEntities">
+    <EntitySetMapping Name="Entity">
+      <EntityTypeMapping TypeName="ChemDBModel.Entity">
+        <MappingFragment StoreEntitySet="Entity">
+          <ScalarProperty Name="Id" ColumnName="Id" />
+          <ScalarProperty Name="Name" ColumnName="Name" />
+          <ScalarProperty Name="Address" ColumnName="Address" />
+          <ScalarProperty Name="Town" ColumnName="Town" />
+          <ScalarProperty Name="Coord_x" ColumnName="Coord_x" />
+          <ScalarProperty Name="Coord_y" ColumnName="Coord_y" />
+          <ScalarProperty Name="Organization" ColumnName="Organization" />
+          <ScalarProperty Name="Phone" ColumnName="Phone" />
+          <ScalarProperty Name="Email" ColumnName="Email" />
+          <ScalarProperty Name="Fax" ColumnName="Fax" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="Guide">
+      <EntityTypeMapping TypeName="ChemDBModel.Guide">
+        <MappingFragment StoreEntitySet="Guide">
+          <ScalarProperty Name="Id" ColumnName="Id" />
+          <ScalarProperty Name="Name" ColumnName="Name" />
+          <ScalarProperty Name="Type" ColumnName="Type" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="Substance">
+      <EntityTypeMapping TypeName="ChemDBModel.Substance">
+        <MappingFragment StoreEntitySet="Substance">
+          <ScalarProperty Name="Id" ColumnName="Id" />
+          <ScalarProperty Name="ProductName" ColumnName="ProductName" />
+          <ScalarProperty Name="FormulaHill" ColumnName="FormulaHill" />
+          <ScalarProperty Name="CAS" ColumnName="CAS" />
+          <ScalarProperty Name="CPCU" ColumnName="CPCU" />
+          <ScalarProperty Name="UN" ColumnName="UN" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="Substance_Entity">
+      <EntityTypeMapping TypeName="ChemDBModel.Substance_Entity">
+        <MappingFragment StoreEntitySet="Substance_Entity">
+          <ScalarProperty Name="Id" ColumnName="Id" />
+          <ScalarProperty Name="IdSubstance" ColumnName="IdSubstance" />
+          <ScalarProperty Name="IdEntity" ColumnName="IdEntity" />
+          <ScalarProperty Name="Type" ColumnName="Type" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="Substance_Guide">
+      <EntityTypeMapping TypeName="ChemDBModel.Substance_Guide">
+        <MappingFragment StoreEntitySet="Substance_Guide">
+          <ScalarProperty Name="Id" ColumnName="Id" />
+          <ScalarProperty Name="IdSubstance" ColumnName="IdSubstance" />
+          <ScalarProperty Name="IdGuide" ColumnName="IdGuide" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="Substance_Synonym">
+      <EntityTypeMapping TypeName="ChemDBModel.Substance_Synonym">
+        <MappingFragment StoreEntitySet="Substance_Synonym">
+          <ScalarProperty Name="Id" ColumnName="Id" />
+          <ScalarProperty Name="IdSubstance" ColumnName="IdSubstance" />
+          <ScalarProperty Name="IdSynonym" ColumnName="IdSynonym" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="Synonym">
+      <EntityTypeMapping TypeName="ChemDBModel.Synonym">
+        <MappingFragment StoreEntitySet="Synonym">
+          <ScalarProperty Name="Id" ColumnName="Id" />
+          <ScalarProperty Name="Name" ColumnName="Name" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+  </EntityContainerMapping>
+</Mapping>
+</edmx:Mappings>
+</edmx:Runtime>
+<!-- EF Designer content (DO NOT EDIT MANUALLY BELOW HERE) -->
+<edmx:Designer xmlns="http://schemas.microsoft.com/ado/2009/11/edmx">
+<Connection><DesignerInfoPropertySet><DesignerProperty Name="MetadataArtifactProcessing" Value="EmbedInOutputAssembly" /></DesignerInfoPropertySet></Connection>
+<edmx:Options><DesignerInfoPropertySet><DesignerProperty Name="ValidateOnBuild" Value="True" /><DesignerProperty Name="EnablePluralization" Value="False" /><DesignerProperty Name="IncludeForeignKeysInModel" Value="True" /><DesignerProperty Name="UseLegacyProvider" Value="False" /><DesignerProperty Name="CodeGenerationStrategy" Value="None" /></DesignerInfoPropertySet></edmx:Options>
+<edmx:Diagrams />
+</edmx:Designer></edmx:Edmx>
