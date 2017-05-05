@@ -1,0 +1,33 @@
+﻿<UserControl x:Class="Chem.Managment.Visual.LogMenu"
+             xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+             xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+             xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+             mc:Ignorable="d" 
+             xmlns:localVM="clr-namespace:Chem.Managment.Visual.ViewModel"
+              Height="32" Width="460" Background="#FF3E3A3A"
+             DataContextChanged="OnDataContextChanged" >
+    <UserControl.Resources>
+        <localVM:MainWindowViewModel x:Key="LogMenuModelDataSource" />
+        <Style TargetType="Menu" BasedOn="{StaticResource StandardMenu}"/>
+    </UserControl.Resources>
+
+    <Grid DataContext="{Binding Source={StaticResource LogMenuModelDataSource}}">
+        <Menu Height="32" VerticalAlignment="Top" Background="{x:Null}" FontSize="16" >
+            <MenuItem Header="General">
+                <MenuItem Header="Configurar Conexión" Command="{Binding ConnectionCommand}" />
+                <Separator/>
+                <MenuItem Name="Init" Header="Iniciar Sesión" Command="{Binding LogCommand}"/>
+                <MenuItem Header="Salir" Command="{Binding CloseCommand}" Icon="{DynamicResource Close}"/>
+            </MenuItem>
+            <MenuItem Header="Administrar" Name="Admin" IsEnabled="True">
+                <MenuItem Header="Actualizar Base de Dato" Command="{Binding DoUpdate}" />
+            </MenuItem >
+            <MenuItem Header="Ayuda" >
+                <MenuItem Header="Contenido de la Ayuda" />
+                <MenuItem Header="Acerca de" Command="{Binding AboutCommand}"/>
+            </MenuItem>
+        </Menu>
+
+    </Grid>
+</UserControl>

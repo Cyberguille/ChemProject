@@ -1,0 +1,13 @@
+I:\SearchControl\SearchTextBox\SearchTextBox\UIControls\bin\Release\SearchTextBox.dll
+I:\SearchControl\SearchTextBox\SearchTextBox\UIControls\bin\Release\SearchTextBox.pdb
+I:\SearchControl\SearchTextBox\SearchTextBox\UIControls\obj\Release\Themes\ListBoxEx.baml
+I:\SearchControl\SearchTextBox\SearchTextBox\UIControls\obj\Release\GeneratedInternalTypeHelper.g.cs
+I:\SearchControl\SearchTextBox\SearchTextBox\UIControls\obj\Release\SearchTextBox_MarkupCompile.cache
+I:\SearchControl\SearchTextBox\SearchTextBox\UIControls\obj\Release\SearchTextBox_MarkupCompile.lref
+I:\SearchControl\SearchTextBox\SearchTextBox\UIControls\obj\Release\Themes\Generic.baml
+I:\SearchControl\SearchTextBox\SearchTextBox\UIControls\obj\Release\SearchTextBox.g.resources
+I:\SearchControl\SearchTextBox\SearchTextBox\UIControls\obj\Release\UIControls.Properties.Resources.resources
+I:\SearchControl\SearchTextBox\SearchTextBox\UIControls\obj\Release\SearchTextBox.csproj.GenerateResource.Cache
+I:\SearchControl\SearchTextBox\SearchTextBox\UIControls\obj\Release\SearchTextBox.dll
+I:\SearchControl\SearchTextBox\SearchTextBox\UIControls\obj\Release\SearchTextBox.pdb
+I:\SearchControl\SearchTextBox\SearchTextBox\UIControls\obj\Release\SearchTextBox.csprojResolveAssemblyReference.cache

@@ -1,0 +1,28 @@
+c:\users\guille\documents\visual studio 2013\Projects\ImporterExcelData\ImporterExcelData\bin\Debug\ImporterExcelData.dll
+c:\users\guille\documents\visual studio 2013\Projects\ImporterExcelData\ImporterExcelData\bin\Debug\ImporterExcelData.pdb
+c:\users\guille\documents\visual studio 2013\Projects\ImporterExcelData\ImporterExcelData\bin\Debug\Codaxy.Xlio.dll
+c:\users\guille\documents\visual studio 2013\Projects\ImporterExcelData\ImporterExcelData\bin\Debug\Codaxy.Xlio.XmlSerializers.dll
+c:\users\guille\documents\visual studio 2013\Projects\ImporterExcelData\ImporterExcelData\bin\Debug\ICSharpCode.SharpZipLib.dll
+c:\users\guille\documents\visual studio 2013\Projects\ImporterExcelData\ImporterExcelData\bin\Debug\Codaxy.Xlio.pdb
+c:\users\guille\documents\visual studio 2013\Projects\ImporterExcelData\ImporterExcelData\obj\Debug\ImporterExcelData.csprojResolveAssemblyReference.cache
+c:\users\guille\documents\visual studio 2013\Projects\ImporterExcelData\ImporterExcelData\obj\Debug\ImporterExcelData.dll
+c:\users\guille\documents\visual studio 2013\Projects\ImporterExcelData\ImporterExcelData\obj\Debug\ImporterExcelData.pdb
+C:\Users\Guille\Desktop\Project\ChemProject\ImporterExcelData\ImporterExcelData\bin\Debug\ImporterExcelData.dll
+C:\Users\Guille\Desktop\Project\ChemProject\ImporterExcelData\ImporterExcelData\bin\Debug\ImporterExcelData.pdb
+C:\Users\Guille\Desktop\Project\ChemProject\ImporterExcelData\ImporterExcelData\bin\Debug\Codaxy.Xlio.dll
+C:\Users\Guille\Desktop\Project\ChemProject\ImporterExcelData\ImporterExcelData\bin\Debug\Codaxy.Xlio.XmlSerializers.dll
+C:\Users\Guille\Desktop\Project\ChemProject\ImporterExcelData\ImporterExcelData\bin\Debug\ICSharpCode.SharpZipLib.dll
+C:\Users\Guille\Desktop\Project\ChemProject\ImporterExcelData\ImporterExcelData\bin\Debug\Codaxy.Xlio.pdb
+C:\Users\Guille\Desktop\Project\ChemProject\ImporterExcelData\ImporterExcelData\obj\Debug\ImporterExcelData.csprojResolveAssemblyReference.cache
+C:\Users\Guille\Desktop\Project\ChemProject\ImporterExcelData\ImporterExcelData\obj\Debug\ImporterExcelData.dll
+C:\Users\Guille\Desktop\Project\ChemProject\ImporterExcelData\ImporterExcelData\obj\Debug\ImporterExcelData.pdb
+D:\Project\ChemProject\ImporterExcelData\ImporterExcelData\obj\Debug\ImporterExcelData.csprojResolveAssemblyReference.cache
+D:\Project\ChemProject\ImporterExcelData\ImporterExcelData\bin\Debug\ImporterExcelData.dll
+D:\Project\ChemProject\ImporterExcelData\ImporterExcelData\bin\Debug\ImporterExcelData.pdb
+D:\Project\ChemProject\ImporterExcelData\ImporterExcelData\bin\Debug\Codaxy.Xlio.dll
+D:\Project\ChemProject\ImporterExcelData\ImporterExcelData\bin\Debug\Codaxy.Xlio.XmlSerializers.dll
+D:\Project\ChemProject\ImporterExcelData\ImporterExcelData\bin\Debug\ICSharpCode.SharpZipLib.dll
+D:\Project\ChemProject\ImporterExcelData\ImporterExcelData\bin\Debug\Codaxy.Xlio.pdb
+D:\Project\ChemProject\ImporterExcelData\ImporterExcelData\bin\Debug\Codaxy.Xlio.xml
+D:\Project\ChemProject\ImporterExcelData\ImporterExcelData\obj\Debug\ImporterExcelData.dll
+D:\Project\ChemProject\ImporterExcelData\ImporterExcelData\obj\Debug\ImporterExcelData.pdb

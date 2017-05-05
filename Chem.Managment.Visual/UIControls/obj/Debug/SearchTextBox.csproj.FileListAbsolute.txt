@@ -1,0 +1,90 @@
+I:\SearchControl\SearchTextBox\SearchTextBox\UIControls\bin\Debug\SearchTextBox.dll
+I:\SearchControl\SearchTextBox\SearchTextBox\UIControls\bin\Debug\SearchTextBox.pdb
+I:\SearchControl\SearchTextBox\SearchTextBox\UIControls\obj\Debug\SearchTextBox.csprojResolveAssemblyReference.cache
+I:\SearchControl\SearchTextBox\SearchTextBox\UIControls\obj\Debug\Themes\ListBoxEx.baml
+I:\SearchControl\SearchTextBox\SearchTextBox\UIControls\obj\Debug\GeneratedInternalTypeHelper.g.cs
+I:\SearchControl\SearchTextBox\SearchTextBox\UIControls\obj\Debug\SearchTextBox_MarkupCompile.cache
+I:\SearchControl\SearchTextBox\SearchTextBox\UIControls\obj\Debug\SearchTextBox_MarkupCompile.lref
+I:\SearchControl\SearchTextBox\SearchTextBox\UIControls\obj\Debug\Themes\Generic.baml
+I:\SearchControl\SearchTextBox\SearchTextBox\UIControls\obj\Debug\SearchTextBox.g.resources
+I:\SearchControl\SearchTextBox\SearchTextBox\UIControls\obj\Debug\UIControls.Properties.Resources.resources
+I:\SearchControl\SearchTextBox\SearchTextBox\UIControls\obj\Debug\SearchTextBox.csproj.GenerateResource.Cache
+I:\SearchControl\SearchTextBox\SearchTextBox\UIControls\obj\Debug\SearchTextBox.dll
+I:\SearchControl\SearchTextBox\SearchTextBox\UIControls\obj\Debug\SearchTextBox.pdb
+C:\Users\Guille\Documents\Visual Studio 2013\Projects\Chem.Managment.Visual\UIControls\bin\Debug\SearchTextBox.dll
+C:\Users\Guille\Documents\Visual Studio 2013\Projects\Chem.Managment.Visual\UIControls\bin\Debug\SearchTextBox.pdb
+C:\Users\Guille\Documents\Visual Studio 2013\Projects\Chem.Managment.Visual\UIControls\obj\Debug\SearchTextBox.csprojResolveAssemblyReference.cache
+C:\Users\Guille\Documents\Visual Studio 2013\Projects\Chem.Managment.Visual\UIControls\obj\Debug\Themes\ListBoxEx.baml
+C:\Users\Guille\Documents\Visual Studio 2013\Projects\Chem.Managment.Visual\UIControls\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\Guille\Documents\Visual Studio 2013\Projects\Chem.Managment.Visual\UIControls\obj\Debug\SearchTextBox_MarkupCompile.cache
+C:\Users\Guille\Documents\Visual Studio 2013\Projects\Chem.Managment.Visual\UIControls\obj\Debug\SearchTextBox_MarkupCompile.lref
+C:\Users\Guille\Documents\Visual Studio 2013\Projects\Chem.Managment.Visual\UIControls\obj\Debug\Themes\Generic.baml
+C:\Users\Guille\Documents\Visual Studio 2013\Projects\Chem.Managment.Visual\UIControls\obj\Debug\SearchTextBox.g.resources
+C:\Users\Guille\Documents\Visual Studio 2013\Projects\Chem.Managment.Visual\UIControls\obj\Debug\UIControls.Properties.Resources.resources
+C:\Users\Guille\Documents\Visual Studio 2013\Projects\Chem.Managment.Visual\UIControls\obj\Debug\SearchTextBox.csproj.GenerateResource.Cache
+C:\Users\Guille\Documents\Visual Studio 2013\Projects\Chem.Managment.Visual\UIControls\obj\Debug\SearchTextBox.dll
+C:\Users\Guille\Documents\Visual Studio 2013\Projects\Chem.Managment.Visual\UIControls\obj\Debug\SearchTextBox.pdb
+G:\Project\ChemProject\Chem.Managment.Visual\UIControls\bin\Debug\SearchTextBox.dll
+G:\Project\ChemProject\Chem.Managment.Visual\UIControls\bin\Debug\SearchTextBox.pdb
+G:\Project\ChemProject\Chem.Managment.Visual\UIControls\obj\Debug\Themes\ListBoxEx.baml
+G:\Project\ChemProject\Chem.Managment.Visual\UIControls\obj\Debug\GeneratedInternalTypeHelper.g.cs
+G:\Project\ChemProject\Chem.Managment.Visual\UIControls\obj\Debug\SearchTextBox_MarkupCompile.cache
+G:\Project\ChemProject\Chem.Managment.Visual\UIControls\obj\Debug\SearchTextBox_MarkupCompile.lref
+G:\Project\ChemProject\Chem.Managment.Visual\UIControls\obj\Debug\Themes\Generic.baml
+G:\Project\ChemProject\Chem.Managment.Visual\UIControls\obj\Debug\SearchTextBox.g.resources
+G:\Project\ChemProject\Chem.Managment.Visual\UIControls\obj\Debug\UIControls.Properties.Resources.resources
+G:\Project\ChemProject\Chem.Managment.Visual\UIControls\obj\Debug\SearchTextBox.csproj.GenerateResource.Cache
+G:\Project\ChemProject\Chem.Managment.Visual\UIControls\obj\Debug\SearchTextBox.dll
+G:\Project\ChemProject\Chem.Managment.Visual\UIControls\obj\Debug\SearchTextBox.pdb
+G:\Project\ChemProject\Chem.Managment.Visual\UIControls\obj\Debug\SearchTextBox.csprojResolveAssemblyReference.cache
+I:\Project\ChemProject\Chem.Managment.Visual\UIControls\bin\Debug\SearchTextBox.dll
+I:\Project\ChemProject\Chem.Managment.Visual\UIControls\bin\Debug\SearchTextBox.pdb
+I:\Project\ChemProject\Chem.Managment.Visual\UIControls\obj\Debug\Themes\ListBoxEx.baml
+I:\Project\ChemProject\Chem.Managment.Visual\UIControls\obj\Debug\GeneratedInternalTypeHelper.g.cs
+I:\Project\ChemProject\Chem.Managment.Visual\UIControls\obj\Debug\SearchTextBox_MarkupCompile.cache
+I:\Project\ChemProject\Chem.Managment.Visual\UIControls\obj\Debug\SearchTextBox_MarkupCompile.lref
+I:\Project\ChemProject\Chem.Managment.Visual\UIControls\obj\Debug\Themes\Generic.baml
+I:\Project\ChemProject\Chem.Managment.Visual\UIControls\obj\Debug\SearchTextBox.g.resources
+I:\Project\ChemProject\Chem.Managment.Visual\UIControls\obj\Debug\UIControls.Properties.Resources.resources
+I:\Project\ChemProject\Chem.Managment.Visual\UIControls\obj\Debug\SearchTextBox.csproj.GenerateResource.Cache
+I:\Project\ChemProject\Chem.Managment.Visual\UIControls\obj\Debug\SearchTextBox.dll
+I:\Project\ChemProject\Chem.Managment.Visual\UIControls\obj\Debug\SearchTextBox.pdb
+I:\Project\ChemProject\Chem.Managment.Visual\UIControls\obj\Debug\SearchTextBox.csprojResolveAssemblyReference.cache
+C:\Users\Guille\Desktop\Project\ChemProject\Chem.Managment.Visual\UIControls\bin\Debug\SearchTextBox.dll
+C:\Users\Guille\Desktop\Project\ChemProject\Chem.Managment.Visual\UIControls\bin\Debug\SearchTextBox.pdb
+C:\Users\Guille\Desktop\Project\ChemProject\Chem.Managment.Visual\UIControls\obj\Debug\SearchTextBox.csprojResolveAssemblyReference.cache
+C:\Users\Guille\Desktop\Project\ChemProject\Chem.Managment.Visual\UIControls\obj\Debug\Themes\ListBoxEx.baml
+C:\Users\Guille\Desktop\Project\ChemProject\Chem.Managment.Visual\UIControls\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\Guille\Desktop\Project\ChemProject\Chem.Managment.Visual\UIControls\obj\Debug\SearchTextBox_MarkupCompile.cache
+C:\Users\Guille\Desktop\Project\ChemProject\Chem.Managment.Visual\UIControls\obj\Debug\SearchTextBox_MarkupCompile.lref
+C:\Users\Guille\Desktop\Project\ChemProject\Chem.Managment.Visual\UIControls\obj\Debug\Themes\Generic.baml
+C:\Users\Guille\Desktop\Project\ChemProject\Chem.Managment.Visual\UIControls\obj\Debug\SearchTextBox.g.resources
+C:\Users\Guille\Desktop\Project\ChemProject\Chem.Managment.Visual\UIControls\obj\Debug\UIControls.Properties.Resources.resources
+C:\Users\Guille\Desktop\Project\ChemProject\Chem.Managment.Visual\UIControls\obj\Debug\SearchTextBox.csproj.GenerateResource.Cache
+C:\Users\Guille\Desktop\Project\ChemProject\Chem.Managment.Visual\UIControls\obj\Debug\SearchTextBox.dll
+C:\Users\Guille\Desktop\Project\ChemProject\Chem.Managment.Visual\UIControls\obj\Debug\SearchTextBox.pdb
+D:\Project\ChemProject\Chem.Managment.Visual\UIControls\bin\Debug\SearchTextBox.dll
+D:\Project\ChemProject\Chem.Managment.Visual\UIControls\bin\Debug\SearchTextBox.pdb
+D:\Project\ChemProject\Chem.Managment.Visual\UIControls\obj\Debug\Themes\ListBoxEx.baml
+D:\Project\ChemProject\Chem.Managment.Visual\UIControls\obj\Debug\GeneratedInternalTypeHelper.g.cs
+D:\Project\ChemProject\Chem.Managment.Visual\UIControls\obj\Debug\SearchTextBox_MarkupCompile.cache
+D:\Project\ChemProject\Chem.Managment.Visual\UIControls\obj\Debug\SearchTextBox_MarkupCompile.lref
+D:\Project\ChemProject\Chem.Managment.Visual\UIControls\obj\Debug\Themes\Generic.baml
+D:\Project\ChemProject\Chem.Managment.Visual\UIControls\obj\Debug\SearchTextBox.g.resources
+D:\Project\ChemProject\Chem.Managment.Visual\UIControls\obj\Debug\UIControls.Properties.Resources.resources
+D:\Project\ChemProject\Chem.Managment.Visual\UIControls\obj\Debug\SearchTextBox.csproj.GenerateResource.Cache
+D:\Project\ChemProject\Chem.Managment.Visual\UIControls\obj\Debug\SearchTextBox.dll
+D:\Project\ChemProject\Chem.Managment.Visual\UIControls\obj\Debug\SearchTextBox.pdb
+F:\Project\ChemProject\Chem.Managment.Visual\UIControls\bin\Debug\SearchTextBox.dll
+F:\Project\ChemProject\Chem.Managment.Visual\UIControls\bin\Debug\SearchTextBox.pdb
+F:\Project\ChemProject\Chem.Managment.Visual\UIControls\obj\Debug\Themes\ListBoxEx.baml
+F:\Project\ChemProject\Chem.Managment.Visual\UIControls\obj\Debug\GeneratedInternalTypeHelper.g.cs
+F:\Project\ChemProject\Chem.Managment.Visual\UIControls\obj\Debug\SearchTextBox_MarkupCompile.cache
+F:\Project\ChemProject\Chem.Managment.Visual\UIControls\obj\Debug\SearchTextBox_MarkupCompile.lref
+F:\Project\ChemProject\Chem.Managment.Visual\UIControls\obj\Debug\Themes\Generic.baml
+F:\Project\ChemProject\Chem.Managment.Visual\UIControls\obj\Debug\SearchTextBox.g.resources
+F:\Project\ChemProject\Chem.Managment.Visual\UIControls\obj\Debug\UIControls.Properties.Resources.resources
+F:\Project\ChemProject\Chem.Managment.Visual\UIControls\obj\Debug\SearchTextBox.csproj.GenerateResource.Cache
+F:\Project\ChemProject\Chem.Managment.Visual\UIControls\obj\Debug\SearchTextBox.dll
+F:\Project\ChemProject\Chem.Managment.Visual\UIControls\obj\Debug\SearchTextBox.pdb
+F:\Project\ChemProject\Chem.Managment.Visual\UIControls\obj\Debug\SearchTextBox.csprojResolveAssemblyReference.cache

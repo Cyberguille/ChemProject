@@ -1,0 +1,39 @@
+﻿<Page
+      xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+      xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+      xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+      xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+      xmlns:local="clr-namespace:Chem.Managment.Visual" xmlns:UIControls="clr-namespace:UIControls;assembly=SearchTextBox" x:Class="Chem.Managment.Visual.HomeSubstance" 
+      mc:Ignorable="d" 
+     x:Name="substanceView"
+	Title="Sustancias" >
+    <ScrollViewer HorizontalScrollBarVisibility="Auto">
+        <Grid  >
+            <DataGrid x:Name="dataGrid" AutoGenerateColumns="False"  EnableRowVirtualization="True" ItemsSource="{Binding}" Margin="10,36,10,10" RowDetailsVisibilityMode="VisibleWhenSelected" Foreground="#FFF7F3F3">
+                <DataGrid.Columns>
+                    <DataGridHyperlinkColumn Header="Producto Químico" Binding="{Binding ProductName}" IsReadOnly="True">
+                        <DataGridHyperlinkColumn.ElementStyle>
+                            <Style TargetType="{x:Type TextBlock}">
+                                <EventSetter Event="Hyperlink.Click" Handler="ViewDetailsClick" />
+                            </Style>
+                        </DataGridHyperlinkColumn.ElementStyle>
+                    </DataGridHyperlinkColumn>
+                    <DataGridTextColumn  Binding="{Binding FormulaHill}" Header="Formula Global" IsReadOnly="True"/>
+                    <DataGridTextColumn  Binding="{Binding CAS}" Header="CAS" IsReadOnly="True"/>
+                    <DataGridTextColumn  Binding="{Binding CPCU}" Header="CPCU" IsReadOnly="True"/>
+                    <DataGridTextColumn  Binding="{Binding UN}" Header="UN" IsReadOnly="True"/>
+                    <!--<DataGridTextColumn  Binding="{Binding GlobalForm}" Header="Entidad disponible" IsReadOnly="True"/>
+                    <DataGridTextColumn  Binding="{Binding GlobalForm}" Header="Entidad consumidora" IsReadOnly="True"/>
+                    <DataGridTextColumn  Binding="{Binding GlobalForm}" Header="Consultores" IsReadOnly="True"/>
+                    <DataGridTextColumn  Binding="{Binding GlobalForm}" Header="Guía de gestión" IsReadOnly="True"/>
+                    <DataGridTextColumn  Binding="{Binding GlobalForm}" Header="Guía de respuesta" IsReadOnly="True"/>
+                    <DataGridTextColumn  Binding="{Binding GlobalForm}" Header="Guía de seguridad" IsReadOnly="True"/>
+                    <DataGridTextColumn  Binding="{Binding GlobalForm}" Header="Otra Guía de seguridad" IsReadOnly="True"/>-->
+                </DataGrid.Columns>
+            </DataGrid>
+
+            <UIControls:SearchTextBox Margin="10,10,0,0" TextWrapping="Wrap"  Name="m_txtTest" Height="22" VerticalAlignment="Top" HorizontalAlignment="Left" Width="220"  />
+
+        </Grid>
+    </ScrollViewer>
+</Page>

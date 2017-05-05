@@ -1,0 +1,310 @@
+c:\users\guille\documents\visual studio 2013\Projects\Chem.Managment.Visual\Chem.Managment.Visual\bin\Debug\Chem.Managment.Visual.exe.config
+c:\users\guille\documents\visual studio 2013\Projects\Chem.Managment.Visual\Chem.Managment.Visual\bin\Debug\Chem.Managment.Visual.exe
+c:\users\guille\documents\visual studio 2013\Projects\Chem.Managment.Visual\Chem.Managment.Visual\bin\Debug\Chem.Managment.Visual.pdb
+c:\users\guille\documents\visual studio 2013\Projects\Chem.Managment.Visual\Chem.Managment.Visual\bin\Debug\System.Windows.Interactivity.dll
+c:\users\guille\documents\visual studio 2013\Projects\Chem.Managment.Visual\Chem.Managment.Visual\bin\Debug\System.Windows.Interactivity.xml
+c:\users\guille\documents\visual studio 2013\Projects\Chem.Managment.Visual\Chem.Managment.Visual\bin\Debug\de\System.Windows.Interactivity.resources.dll
+c:\users\guille\documents\visual studio 2013\Projects\Chem.Managment.Visual\Chem.Managment.Visual\bin\Debug\en\System.Windows.Interactivity.resources.dll
+c:\users\guille\documents\visual studio 2013\Projects\Chem.Managment.Visual\Chem.Managment.Visual\bin\Debug\es\System.Windows.Interactivity.resources.dll
+c:\users\guille\documents\visual studio 2013\Projects\Chem.Managment.Visual\Chem.Managment.Visual\bin\Debug\fr\System.Windows.Interactivity.resources.dll
+c:\users\guille\documents\visual studio 2013\Projects\Chem.Managment.Visual\Chem.Managment.Visual\bin\Debug\it\System.Windows.Interactivity.resources.dll
+c:\users\guille\documents\visual studio 2013\Projects\Chem.Managment.Visual\Chem.Managment.Visual\bin\Debug\ja\System.Windows.Interactivity.resources.dll
+c:\users\guille\documents\visual studio 2013\Projects\Chem.Managment.Visual\Chem.Managment.Visual\bin\Debug\ko\System.Windows.Interactivity.resources.dll
+c:\users\guille\documents\visual studio 2013\Projects\Chem.Managment.Visual\Chem.Managment.Visual\bin\Debug\zh-Hans\System.Windows.Interactivity.resources.dll
+c:\users\guille\documents\visual studio 2013\Projects\Chem.Managment.Visual\Chem.Managment.Visual\bin\Debug\zh-Hant\System.Windows.Interactivity.resources.dll
+c:\users\guille\documents\visual studio 2013\Projects\Chem.Managment.Visual\Chem.Managment.Visual\obj\Debug\Chem.Managment.Visual.csprojResolveAssemblyReference.cache
+c:\users\guille\documents\visual studio 2013\Projects\Chem.Managment.Visual\Chem.Managment.Visual\obj\Debug\LogMenu.baml
+c:\users\guille\documents\visual studio 2013\Projects\Chem.Managment.Visual\Chem.Managment.Visual\obj\Debug\MainWindow.baml
+c:\users\guille\documents\visual studio 2013\Projects\Chem.Managment.Visual\Chem.Managment.Visual\obj\Debug\App.baml
+c:\users\guille\documents\visual studio 2013\Projects\Chem.Managment.Visual\Chem.Managment.Visual\obj\Debug\LogMenu.g.cs
+c:\users\guille\documents\visual studio 2013\Projects\Chem.Managment.Visual\Chem.Managment.Visual\obj\Debug\MainWindow.g.cs
+c:\users\guille\documents\visual studio 2013\Projects\Chem.Managment.Visual\Chem.Managment.Visual\obj\Debug\App.g.cs
+c:\users\guille\documents\visual studio 2013\Projects\Chem.Managment.Visual\Chem.Managment.Visual\obj\Debug\Chem.Managment.Visual_MarkupCompile.cache
+c:\users\guille\documents\visual studio 2013\Projects\Chem.Managment.Visual\Chem.Managment.Visual\obj\Debug\Chem.Managment.Visual.g.resources
+c:\users\guille\documents\visual studio 2013\Projects\Chem.Managment.Visual\Chem.Managment.Visual\obj\Debug\Chem.Managment.Visual.Properties.Resources.resources
+c:\users\guille\documents\visual studio 2013\Projects\Chem.Managment.Visual\Chem.Managment.Visual\obj\Debug\Chem.Managment.Visual.csproj.GenerateResource.Cache
+c:\users\guille\documents\visual studio 2013\Projects\Chem.Managment.Visual\Chem.Managment.Visual\obj\Debug\Chem.Managment.Visual.exe
+c:\users\guille\documents\visual studio 2013\Projects\Chem.Managment.Visual\Chem.Managment.Visual\obj\Debug\Chem.Managment.Visual.pdb
+c:\users\guille\documents\visual studio 2013\Projects\Chem.Managment.Visual\Chem.Managment.Visual\obj\Debug\GeneratedInternalTypeHelper.g.cs
+c:\users\guille\documents\visual studio 2013\Projects\Chem.Managment.Visual\Chem.Managment.Visual\obj\Debug\Chem.Managment.Visual_MarkupCompile.lref
+C:\Users\Guille\documents\visual studio 2013\Projects\Chem.Managment.Visual\Chem.Managment.Visual\obj\Debug\Details.baml
+C:\Users\Guille\documents\visual studio 2013\Projects\Chem.Managment.Visual\Chem.Managment.Visual\obj\Debug\Home.baml
+C:\Users\Guille\documents\visual studio 2013\Projects\Chem.Managment.Visual\Chem.Managment.Visual\obj\Debug\Navegation.baml
+C:\Users\Guille\documents\visual studio 2013\Projects\Chem.Managment.Visual\Chem.Managment.Visual\obj\Debug\Details.g.cs
+C:\Users\Guille\documents\visual studio 2013\Projects\Chem.Managment.Visual\Chem.Managment.Visual\obj\Debug\Home.g.cs
+C:\Users\Guille\documents\visual studio 2013\Projects\Chem.Managment.Visual\Chem.Managment.Visual\obj\Debug\Navegation.g.cs
+C:\Users\Guille\Documents\Visual Studio 2013\Projects\Chem.Managment.Visual\Chem.Managment.Visual\bin\Debug\SearchTextBox.dll
+C:\Users\Guille\Documents\Visual Studio 2013\Projects\Chem.Managment.Visual\Chem.Managment.Visual\bin\Debug\SearchTextBox.pdb
+G:\Project\ChemProject\Chem.Managment.Visual\Chem.Managment.Visual\bin\Debug\Chem.Managment.Visual.exe.config
+G:\Project\ChemProject\Chem.Managment.Visual\Chem.Managment.Visual\bin\Debug\Chem.Managment.Visual.exe
+G:\Project\ChemProject\Chem.Managment.Visual\Chem.Managment.Visual\bin\Debug\Chem.Managment.Visual.pdb
+G:\Project\ChemProject\Chem.Managment.Visual\Chem.Managment.Visual\bin\Debug\Chem.DataBase.dll
+G:\Project\ChemProject\Chem.Managment.Visual\Chem.Managment.Visual\bin\Debug\EntityFramework.dll
+G:\Project\ChemProject\Chem.Managment.Visual\Chem.Managment.Visual\bin\Debug\EntityFramework.SqlServer.dll
+G:\Project\ChemProject\Chem.Managment.Visual\Chem.Managment.Visual\bin\Debug\EntityFramework.SqlServerCompact.dll
+G:\Project\ChemProject\Chem.Managment.Visual\Chem.Managment.Visual\bin\Debug\SearchTextBox.dll
+G:\Project\ChemProject\Chem.Managment.Visual\Chem.Managment.Visual\bin\Debug\System.Data.SqlServerCe.dll
+G:\Project\ChemProject\Chem.Managment.Visual\Chem.Managment.Visual\bin\Debug\System.Windows.Interactivity.dll
+G:\Project\ChemProject\Chem.Managment.Visual\Chem.Managment.Visual\bin\Debug\SearchTextBox.pdb
+G:\Project\ChemProject\Chem.Managment.Visual\Chem.Managment.Visual\bin\Debug\Chem.DataBase.pdb
+G:\Project\ChemProject\Chem.Managment.Visual\Chem.Managment.Visual\bin\Debug\EntityFramework.xml
+G:\Project\ChemProject\Chem.Managment.Visual\Chem.Managment.Visual\bin\Debug\EntityFramework.SqlServer.xml
+G:\Project\ChemProject\Chem.Managment.Visual\Chem.Managment.Visual\bin\Debug\EntityFramework.SqlServerCompact.xml
+G:\Project\ChemProject\Chem.Managment.Visual\Chem.Managment.Visual\bin\Debug\System.Windows.Interactivity.xml
+G:\Project\ChemProject\Chem.Managment.Visual\Chem.Managment.Visual\bin\Debug\de\System.Windows.Interactivity.resources.dll
+G:\Project\ChemProject\Chem.Managment.Visual\Chem.Managment.Visual\bin\Debug\en\System.Windows.Interactivity.resources.dll
+G:\Project\ChemProject\Chem.Managment.Visual\Chem.Managment.Visual\bin\Debug\es\System.Windows.Interactivity.resources.dll
+G:\Project\ChemProject\Chem.Managment.Visual\Chem.Managment.Visual\bin\Debug\fr\System.Windows.Interactivity.resources.dll
+G:\Project\ChemProject\Chem.Managment.Visual\Chem.Managment.Visual\bin\Debug\it\System.Windows.Interactivity.resources.dll
+G:\Project\ChemProject\Chem.Managment.Visual\Chem.Managment.Visual\bin\Debug\ja\System.Windows.Interactivity.resources.dll
+G:\Project\ChemProject\Chem.Managment.Visual\Chem.Managment.Visual\bin\Debug\ko\System.Windows.Interactivity.resources.dll
+G:\Project\ChemProject\Chem.Managment.Visual\Chem.Managment.Visual\bin\Debug\zh-Hans\System.Windows.Interactivity.resources.dll
+G:\Project\ChemProject\Chem.Managment.Visual\Chem.Managment.Visual\bin\Debug\zh-Hant\System.Windows.Interactivity.resources.dll
+G:\Project\ChemProject\Chem.Managment.Visual\Chem.Managment.Visual\obj\Debug\Chem.Managment.Visual.csprojResolveAssemblyReference.cache
+G:\Project\ChemProject\Chem.Managment.Visual\Chem.Managment.Visual\obj\Debug\Details.baml
+G:\Project\ChemProject\Chem.Managment.Visual\Chem.Managment.Visual\obj\Debug\LogMenu.baml
+G:\Project\ChemProject\Chem.Managment.Visual\Chem.Managment.Visual\obj\Debug\Navegation.baml
+G:\Project\ChemProject\Chem.Managment.Visual\Chem.Managment.Visual\obj\Debug\App.baml
+G:\Project\ChemProject\Chem.Managment.Visual\Chem.Managment.Visual\obj\Debug\Details.g.cs
+G:\Project\ChemProject\Chem.Managment.Visual\Chem.Managment.Visual\obj\Debug\LogMenu.g.cs
+G:\Project\ChemProject\Chem.Managment.Visual\Chem.Managment.Visual\obj\Debug\MainWindow.g.cs
+G:\Project\ChemProject\Chem.Managment.Visual\Chem.Managment.Visual\obj\Debug\Navegation.g.cs
+G:\Project\ChemProject\Chem.Managment.Visual\Chem.Managment.Visual\obj\Debug\App.g.cs
+G:\Project\ChemProject\Chem.Managment.Visual\Chem.Managment.Visual\obj\Debug\GeneratedInternalTypeHelper.g.cs
+G:\Project\ChemProject\Chem.Managment.Visual\Chem.Managment.Visual\obj\Debug\Chem.Managment.Visual_MarkupCompile.cache
+G:\Project\ChemProject\Chem.Managment.Visual\Chem.Managment.Visual\obj\Debug\Chem.Managment.Visual_MarkupCompile.lref
+G:\Project\ChemProject\Chem.Managment.Visual\Chem.Managment.Visual\obj\Debug\MainWindow.baml
+G:\Project\ChemProject\Chem.Managment.Visual\Chem.Managment.Visual\obj\Debug\Chem.Managment.Visual.g.resources
+G:\Project\ChemProject\Chem.Managment.Visual\Chem.Managment.Visual\obj\Debug\Chem.Managment.Visual.Properties.Resources.resources
+G:\Project\ChemProject\Chem.Managment.Visual\Chem.Managment.Visual\obj\Debug\Chem.Managment.Visual.csproj.GenerateResource.Cache
+G:\Project\ChemProject\Chem.Managment.Visual\Chem.Managment.Visual\obj\Debug\Chem.Managment.Visual.exe
+G:\Project\ChemProject\Chem.Managment.Visual\Chem.Managment.Visual\obj\Debug\Chem.Managment.Visual.pdb
+G:\Project\ChemProject\Chem.Managment.Visual\Chem.Managment.Visual\obj\Debug\ProgressDialog.baml
+G:\Project\ChemProject\Chem.Managment.Visual\Chem.Managment.Visual\obj\Debug\ProgressDialog.g.cs
+I:\Project\ChemProject\Chem.Managment.Visual\Chem.Managment.Visual\obj\Debug\Chem.Managment.Visual.csprojResolveAssemblyReference.cache
+I:\Project\ChemProject\Chem.Managment.Visual\Chem.Managment.Visual\obj\Debug\Details.baml
+I:\Project\ChemProject\Chem.Managment.Visual\Chem.Managment.Visual\obj\Debug\Navegation.baml
+I:\Project\ChemProject\Chem.Managment.Visual\Chem.Managment.Visual\obj\Debug\App.baml
+I:\Project\ChemProject\Chem.Managment.Visual\Chem.Managment.Visual\obj\Debug\Details.g.cs
+I:\Project\ChemProject\Chem.Managment.Visual\Chem.Managment.Visual\obj\Debug\Home.g.cs
+I:\Project\ChemProject\Chem.Managment.Visual\Chem.Managment.Visual\obj\Debug\LogMenu.g.cs
+I:\Project\ChemProject\Chem.Managment.Visual\Chem.Managment.Visual\obj\Debug\MainWindow.g.cs
+I:\Project\ChemProject\Chem.Managment.Visual\Chem.Managment.Visual\obj\Debug\Navegation.g.cs
+I:\Project\ChemProject\Chem.Managment.Visual\Chem.Managment.Visual\obj\Debug\ProgressDialog.g.cs
+I:\Project\ChemProject\Chem.Managment.Visual\Chem.Managment.Visual\obj\Debug\App.g.cs
+I:\Project\ChemProject\Chem.Managment.Visual\Chem.Managment.Visual\obj\Debug\GeneratedInternalTypeHelper.g.cs
+I:\Project\ChemProject\Chem.Managment.Visual\Chem.Managment.Visual\obj\Debug\Chem.Managment.Visual_MarkupCompile.cache
+I:\Project\ChemProject\Chem.Managment.Visual\Chem.Managment.Visual\obj\Debug\Chem.Managment.Visual_MarkupCompile.lref
+I:\Project\ChemProject\Chem.Managment.Visual\Chem.Managment.Visual\bin\Debug\Chem.Managment.Visual.exe.config
+I:\Project\ChemProject\Chem.Managment.Visual\Chem.Managment.Visual\bin\Debug\Chem.Managment.Visual.exe
+I:\Project\ChemProject\Chem.Managment.Visual\Chem.Managment.Visual\bin\Debug\Chem.Managment.Visual.pdb
+I:\Project\ChemProject\Chem.Managment.Visual\Chem.Managment.Visual\bin\Debug\Chem.DataBase.dll
+I:\Project\ChemProject\Chem.Managment.Visual\Chem.Managment.Visual\bin\Debug\EntityFramework.dll
+I:\Project\ChemProject\Chem.Managment.Visual\Chem.Managment.Visual\bin\Debug\EntityFramework.SqlServer.dll
+I:\Project\ChemProject\Chem.Managment.Visual\Chem.Managment.Visual\bin\Debug\EntityFramework.SqlServerCompact.dll
+I:\Project\ChemProject\Chem.Managment.Visual\Chem.Managment.Visual\bin\Debug\SearchTextBox.dll
+I:\Project\ChemProject\Chem.Managment.Visual\Chem.Managment.Visual\bin\Debug\System.Data.SqlServerCe.dll
+I:\Project\ChemProject\Chem.Managment.Visual\Chem.Managment.Visual\bin\Debug\System.Windows.Interactivity.dll
+I:\Project\ChemProject\Chem.Managment.Visual\Chem.Managment.Visual\bin\Debug\SearchTextBox.pdb
+I:\Project\ChemProject\Chem.Managment.Visual\Chem.Managment.Visual\bin\Debug\Chem.DataBase.pdb
+I:\Project\ChemProject\Chem.Managment.Visual\Chem.Managment.Visual\bin\Debug\EntityFramework.xml
+I:\Project\ChemProject\Chem.Managment.Visual\Chem.Managment.Visual\bin\Debug\EntityFramework.SqlServer.xml
+I:\Project\ChemProject\Chem.Managment.Visual\Chem.Managment.Visual\bin\Debug\EntityFramework.SqlServerCompact.xml
+I:\Project\ChemProject\Chem.Managment.Visual\Chem.Managment.Visual\bin\Debug\System.Windows.Interactivity.xml
+I:\Project\ChemProject\Chem.Managment.Visual\Chem.Managment.Visual\bin\Debug\de\System.Windows.Interactivity.resources.dll
+I:\Project\ChemProject\Chem.Managment.Visual\Chem.Managment.Visual\bin\Debug\en\System.Windows.Interactivity.resources.dll
+I:\Project\ChemProject\Chem.Managment.Visual\Chem.Managment.Visual\bin\Debug\es\System.Windows.Interactivity.resources.dll
+I:\Project\ChemProject\Chem.Managment.Visual\Chem.Managment.Visual\bin\Debug\fr\System.Windows.Interactivity.resources.dll
+I:\Project\ChemProject\Chem.Managment.Visual\Chem.Managment.Visual\bin\Debug\it\System.Windows.Interactivity.resources.dll
+I:\Project\ChemProject\Chem.Managment.Visual\Chem.Managment.Visual\bin\Debug\ja\System.Windows.Interactivity.resources.dll
+I:\Project\ChemProject\Chem.Managment.Visual\Chem.Managment.Visual\bin\Debug\ko\System.Windows.Interactivity.resources.dll
+I:\Project\ChemProject\Chem.Managment.Visual\Chem.Managment.Visual\bin\Debug\zh-Hans\System.Windows.Interactivity.resources.dll
+I:\Project\ChemProject\Chem.Managment.Visual\Chem.Managment.Visual\bin\Debug\zh-Hant\System.Windows.Interactivity.resources.dll
+I:\Project\ChemProject\Chem.Managment.Visual\Chem.Managment.Visual\obj\Debug\Home.baml
+I:\Project\ChemProject\Chem.Managment.Visual\Chem.Managment.Visual\obj\Debug\LogMenu.baml
+I:\Project\ChemProject\Chem.Managment.Visual\Chem.Managment.Visual\obj\Debug\MainWindow.baml
+I:\Project\ChemProject\Chem.Managment.Visual\Chem.Managment.Visual\obj\Debug\ProgressDialog.baml
+I:\Project\ChemProject\Chem.Managment.Visual\Chem.Managment.Visual\obj\Debug\Chem.Managment.Visual.g.resources
+I:\Project\ChemProject\Chem.Managment.Visual\Chem.Managment.Visual\obj\Debug\Chem.Managment.Visual.Properties.Resources.resources
+I:\Project\ChemProject\Chem.Managment.Visual\Chem.Managment.Visual\obj\Debug\Chem.Managment.Visual.csproj.GenerateResource.Cache
+I:\Project\ChemProject\Chem.Managment.Visual\Chem.Managment.Visual\obj\Debug\Chem.Managment.Visual.exe
+I:\Project\ChemProject\Chem.Managment.Visual\Chem.Managment.Visual\obj\Debug\Chem.Managment.Visual.pdb
+C:\Users\Guille\Desktop\Project\ChemProject\Chem.Managment.Visual\Chem.Managment.Visual\bin\Debug\Chem.Managment.Visual.exe.config
+C:\Users\Guille\Desktop\Project\ChemProject\Chem.Managment.Visual\Chem.Managment.Visual\obj\Debug\Chem.Managment.Visual.exe
+C:\Users\Guille\Desktop\Project\ChemProject\Chem.Managment.Visual\Chem.Managment.Visual\obj\Debug\Chem.Managment.Visual.pdb
+C:\Users\Guille\Desktop\Project\ChemProject\Chem.Managment.Visual\Chem.Managment.Visual\bin\Debug\Chem.Managment.Visual.exe
+C:\Users\Guille\Desktop\Project\ChemProject\Chem.Managment.Visual\Chem.Managment.Visual\bin\Debug\Chem.Managment.Visual.pdb
+C:\Users\Guille\Desktop\Project\ChemProject\Chem.Managment.Visual\Chem.Managment.Visual\bin\Debug\Chem.DataBase.dll
+C:\Users\Guille\Desktop\Project\ChemProject\Chem.Managment.Visual\Chem.Managment.Visual\bin\Debug\EntityFramework.dll
+C:\Users\Guille\Desktop\Project\ChemProject\Chem.Managment.Visual\Chem.Managment.Visual\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Guille\Desktop\Project\ChemProject\Chem.Managment.Visual\Chem.Managment.Visual\bin\Debug\EntityFramework.SqlServerCompact.dll
+C:\Users\Guille\Desktop\Project\ChemProject\Chem.Managment.Visual\Chem.Managment.Visual\bin\Debug\SearchTextBox.dll
+C:\Users\Guille\Desktop\Project\ChemProject\Chem.Managment.Visual\Chem.Managment.Visual\bin\Debug\System.Data.SqlServerCe.dll
+C:\Users\Guille\Desktop\Project\ChemProject\Chem.Managment.Visual\Chem.Managment.Visual\bin\Debug\System.Windows.Interactivity.dll
+C:\Users\Guille\Desktop\Project\ChemProject\Chem.Managment.Visual\Chem.Managment.Visual\bin\Debug\SearchTextBox.pdb
+C:\Users\Guille\Desktop\Project\ChemProject\Chem.Managment.Visual\Chem.Managment.Visual\bin\Debug\Chem.DataBase.pdb
+C:\Users\Guille\Desktop\Project\ChemProject\Chem.Managment.Visual\Chem.Managment.Visual\bin\Debug\EntityFramework.xml
+C:\Users\Guille\Desktop\Project\ChemProject\Chem.Managment.Visual\Chem.Managment.Visual\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Guille\Desktop\Project\ChemProject\Chem.Managment.Visual\Chem.Managment.Visual\bin\Debug\EntityFramework.SqlServerCompact.xml
+C:\Users\Guille\Desktop\Project\ChemProject\Chem.Managment.Visual\Chem.Managment.Visual\bin\Debug\System.Windows.Interactivity.xml
+C:\Users\Guille\Desktop\Project\ChemProject\Chem.Managment.Visual\Chem.Managment.Visual\bin\Debug\de\System.Windows.Interactivity.resources.dll
+C:\Users\Guille\Desktop\Project\ChemProject\Chem.Managment.Visual\Chem.Managment.Visual\bin\Debug\en\System.Windows.Interactivity.resources.dll
+C:\Users\Guille\Desktop\Project\ChemProject\Chem.Managment.Visual\Chem.Managment.Visual\bin\Debug\es\System.Windows.Interactivity.resources.dll
+C:\Users\Guille\Desktop\Project\ChemProject\Chem.Managment.Visual\Chem.Managment.Visual\bin\Debug\fr\System.Windows.Interactivity.resources.dll
+C:\Users\Guille\Desktop\Project\ChemProject\Chem.Managment.Visual\Chem.Managment.Visual\bin\Debug\it\System.Windows.Interactivity.resources.dll
+C:\Users\Guille\Desktop\Project\ChemProject\Chem.Managment.Visual\Chem.Managment.Visual\bin\Debug\ja\System.Windows.Interactivity.resources.dll
+C:\Users\Guille\Desktop\Project\ChemProject\Chem.Managment.Visual\Chem.Managment.Visual\bin\Debug\ko\System.Windows.Interactivity.resources.dll
+C:\Users\Guille\Desktop\Project\ChemProject\Chem.Managment.Visual\Chem.Managment.Visual\bin\Debug\zh-Hans\System.Windows.Interactivity.resources.dll
+C:\Users\Guille\Desktop\Project\ChemProject\Chem.Managment.Visual\Chem.Managment.Visual\bin\Debug\zh-Hant\System.Windows.Interactivity.resources.dll
+C:\Users\Guille\Desktop\Project\ChemProject\Chem.Managment.Visual\Chem.Managment.Visual\obj\Debug\Chem.Managment.Visual.csprojResolveAssemblyReference.cache
+C:\Users\Guille\Desktop\Project\ChemProject\Chem.Managment.Visual\Chem.Managment.Visual\obj\Debug\App.baml
+C:\Users\Guille\Desktop\Project\ChemProject\Chem.Managment.Visual\Chem.Managment.Visual\obj\Debug\App.g.cs
+C:\Users\Guille\Desktop\Project\ChemProject\Chem.Managment.Visual\Chem.Managment.Visual\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\Guille\Desktop\Project\ChemProject\Chem.Managment.Visual\Chem.Managment.Visual\obj\Debug\Chem.Managment.Visual_MarkupCompile.cache
+C:\Users\Guille\Desktop\Project\ChemProject\Chem.Managment.Visual\Chem.Managment.Visual\obj\Debug\Chem.Managment.Visual_MarkupCompile.lref
+C:\Users\Guille\Desktop\Project\ChemProject\Chem.Managment.Visual\Chem.Managment.Visual\obj\Debug\Chem.Managment.Visual.g.resources
+C:\Users\Guille\Desktop\Project\ChemProject\Chem.Managment.Visual\Chem.Managment.Visual\obj\Debug\Chem.Managment.Visual.Properties.Resources.resources
+C:\Users\Guille\Desktop\Project\ChemProject\Chem.Managment.Visual\Chem.Managment.Visual\obj\Debug\Chem.Managment.Visual.csproj.GenerateResource.Cache
+G:\Project\ChemProject\Chem.Managment.Visual\Chem.Managment.Visual\bin\Debug\Codaxy.Xlio.dll
+G:\Project\ChemProject\Chem.Managment.Visual\Chem.Managment.Visual\bin\Debug\ICSharpCode.SharpZipLib.dll
+G:\Project\ChemProject\Chem.Managment.Visual\Chem.Managment.Visual\bin\Debug\Codaxy.Xlio.pdb
+G:\Project\ChemProject\Chem.Managment.Visual\Chem.Managment.Visual\bin\Debug\Codaxy.Xlio.XmlSerializers.dll
+C:\Users\Guille\Desktop\Project\ChemProject\Chem.Managment.Visual\Chem.Managment.Visual\bin\Debug\Codaxy.Xlio.dll
+C:\Users\Guille\Desktop\Project\ChemProject\Chem.Managment.Visual\Chem.Managment.Visual\bin\Debug\ICSharpCode.SharpZipLib.dll
+C:\Users\Guille\Desktop\Project\ChemProject\Chem.Managment.Visual\Chem.Managment.Visual\bin\Debug\Codaxy.Xlio.pdb
+C:\Users\Guille\Desktop\Project\ChemProject\Chem.Managment.Visual\Chem.Managment.Visual\bin\Debug\Codaxy.Xlio.XmlSerializers.dll
+C:\Users\Guille\Desktop\Project\ChemProject\Chem.Managment.Visual\Chem.Managment.Visual\obj\Debug\Details.baml
+C:\Users\Guille\Desktop\Project\ChemProject\Chem.Managment.Visual\Chem.Managment.Visual\obj\Debug\Navegation.baml
+C:\Users\Guille\Desktop\Project\ChemProject\Chem.Managment.Visual\Chem.Managment.Visual\obj\Debug\Details.g.cs
+C:\Users\Guille\Desktop\Project\ChemProject\Chem.Managment.Visual\Chem.Managment.Visual\obj\Debug\LogMenu.g.cs
+C:\Users\Guille\Desktop\Project\ChemProject\Chem.Managment.Visual\Chem.Managment.Visual\obj\Debug\MainWindow.g.cs
+C:\Users\Guille\Desktop\Project\ChemProject\Chem.Managment.Visual\Chem.Managment.Visual\obj\Debug\Navegation.g.cs
+C:\Users\Guille\Desktop\Project\ChemProject\Chem.Managment.Visual\Chem.Managment.Visual\obj\Debug\ProgressDialog.g.cs
+C:\Users\Guille\Desktop\Project\ChemProject\Chem.Managment.Visual\Chem.Managment.Visual\obj\Debug\LogMenu.baml
+C:\Users\Guille\Desktop\Project\ChemProject\Chem.Managment.Visual\Chem.Managment.Visual\obj\Debug\MainWindow.baml
+C:\Users\Guille\Desktop\Project\ChemProject\Chem.Managment.Visual\Chem.Managment.Visual\obj\Debug\ProgressDialog.baml
+C:\Users\Guille\Desktop\Project\ChemProject\Chem.Managment.Visual\Chem.Managment.Visual\obj\Debug\HomeSubstance.g.cs
+C:\Users\Guille\Desktop\Project\ChemProject\Chem.Managment.Visual\Chem.Managment.Visual\obj\Debug\HomeSubstance.baml
+C:\Users\Guille\Desktop\Project\ChemProject\Chem.Managment.Visual\Chem.Managment.Visual\obj\Debug\HomeEntities.baml
+C:\Users\Guille\Desktop\Project\ChemProject\Chem.Managment.Visual\Chem.Managment.Visual\obj\Debug\HomeEntities.g.cs
+G:\Project\ChemProject\Chem.Managment.Visual\Chem.Managment.Visual\obj\Debug\HomeEntities.baml
+G:\Project\ChemProject\Chem.Managment.Visual\Chem.Managment.Visual\obj\Debug\HomeEntities.g.cs
+G:\Project\ChemProject\Chem.Managment.Visual\Chem.Managment.Visual\obj\Debug\HomeSubstance.g.cs
+G:\Project\ChemProject\Chem.Managment.Visual\Chem.Managment.Visual\obj\Debug\HomeSubstance.baml
+D:\Project\ChemProject\Chem.Managment.Visual\Chem.Managment.Visual\bin\Debug\Chem.Managment.Visual.exe.config
+D:\Project\ChemProject\Chem.Managment.Visual\Chem.Managment.Visual\bin\Debug\Chem.Managment.Visual.exe
+D:\Project\ChemProject\Chem.Managment.Visual\Chem.Managment.Visual\bin\Debug\Chem.Managment.Visual.pdb
+D:\Project\ChemProject\Chem.Managment.Visual\Chem.Managment.Visual\bin\Debug\Chem.DataBase.dll
+D:\Project\ChemProject\Chem.Managment.Visual\Chem.Managment.Visual\bin\Debug\Codaxy.Xlio.dll
+D:\Project\ChemProject\Chem.Managment.Visual\Chem.Managment.Visual\bin\Debug\Codaxy.Xlio.XmlSerializers.dll
+D:\Project\ChemProject\Chem.Managment.Visual\Chem.Managment.Visual\bin\Debug\EntityFramework.dll
+D:\Project\ChemProject\Chem.Managment.Visual\Chem.Managment.Visual\bin\Debug\EntityFramework.SqlServer.dll
+D:\Project\ChemProject\Chem.Managment.Visual\Chem.Managment.Visual\bin\Debug\EntityFramework.SqlServerCompact.dll
+D:\Project\ChemProject\Chem.Managment.Visual\Chem.Managment.Visual\bin\Debug\ICSharpCode.SharpZipLib.dll
+D:\Project\ChemProject\Chem.Managment.Visual\Chem.Managment.Visual\bin\Debug\SearchTextBox.dll
+D:\Project\ChemProject\Chem.Managment.Visual\Chem.Managment.Visual\bin\Debug\System.Data.SqlServerCe.dll
+D:\Project\ChemProject\Chem.Managment.Visual\Chem.Managment.Visual\bin\Debug\System.Windows.Interactivity.dll
+D:\Project\ChemProject\Chem.Managment.Visual\Chem.Managment.Visual\bin\Debug\SearchTextBox.pdb
+D:\Project\ChemProject\Chem.Managment.Visual\Chem.Managment.Visual\bin\Debug\Chem.DataBase.pdb
+D:\Project\ChemProject\Chem.Managment.Visual\Chem.Managment.Visual\bin\Debug\Codaxy.Xlio.pdb
+D:\Project\ChemProject\Chem.Managment.Visual\Chem.Managment.Visual\bin\Debug\Codaxy.Xlio.xml
+D:\Project\ChemProject\Chem.Managment.Visual\Chem.Managment.Visual\bin\Debug\EntityFramework.xml
+D:\Project\ChemProject\Chem.Managment.Visual\Chem.Managment.Visual\bin\Debug\EntityFramework.SqlServer.xml
+D:\Project\ChemProject\Chem.Managment.Visual\Chem.Managment.Visual\bin\Debug\EntityFramework.SqlServerCompact.xml
+D:\Project\ChemProject\Chem.Managment.Visual\Chem.Managment.Visual\bin\Debug\System.Windows.Interactivity.xml
+D:\Project\ChemProject\Chem.Managment.Visual\Chem.Managment.Visual\bin\Debug\de\System.Windows.Interactivity.resources.dll
+D:\Project\ChemProject\Chem.Managment.Visual\Chem.Managment.Visual\bin\Debug\en\System.Windows.Interactivity.resources.dll
+D:\Project\ChemProject\Chem.Managment.Visual\Chem.Managment.Visual\bin\Debug\es\System.Windows.Interactivity.resources.dll
+D:\Project\ChemProject\Chem.Managment.Visual\Chem.Managment.Visual\bin\Debug\fr\System.Windows.Interactivity.resources.dll
+D:\Project\ChemProject\Chem.Managment.Visual\Chem.Managment.Visual\bin\Debug\it\System.Windows.Interactivity.resources.dll
+D:\Project\ChemProject\Chem.Managment.Visual\Chem.Managment.Visual\bin\Debug\ja\System.Windows.Interactivity.resources.dll
+D:\Project\ChemProject\Chem.Managment.Visual\Chem.Managment.Visual\bin\Debug\ko\System.Windows.Interactivity.resources.dll
+D:\Project\ChemProject\Chem.Managment.Visual\Chem.Managment.Visual\bin\Debug\zh-Hans\System.Windows.Interactivity.resources.dll
+D:\Project\ChemProject\Chem.Managment.Visual\Chem.Managment.Visual\bin\Debug\zh-Hant\System.Windows.Interactivity.resources.dll
+D:\Project\ChemProject\Chem.Managment.Visual\Chem.Managment.Visual\obj\Debug\Chem.Managment.Visual.csprojResolveAssemblyReference.cache
+D:\Project\ChemProject\Chem.Managment.Visual\Chem.Managment.Visual\obj\Debug\Details.baml
+D:\Project\ChemProject\Chem.Managment.Visual\Chem.Managment.Visual\obj\Debug\DocumentViewer.baml
+D:\Project\ChemProject\Chem.Managment.Visual\Chem.Managment.Visual\obj\Debug\HomeEntities.baml
+D:\Project\ChemProject\Chem.Managment.Visual\Chem.Managment.Visual\obj\Debug\Navegation.baml
+D:\Project\ChemProject\Chem.Managment.Visual\Chem.Managment.Visual\obj\Debug\App.baml
+D:\Project\ChemProject\Chem.Managment.Visual\Chem.Managment.Visual\obj\Debug\Details.g.cs
+D:\Project\ChemProject\Chem.Managment.Visual\Chem.Managment.Visual\obj\Debug\DocumentViewer.g.cs
+D:\Project\ChemProject\Chem.Managment.Visual\Chem.Managment.Visual\obj\Debug\HomeEntities.g.cs
+D:\Project\ChemProject\Chem.Managment.Visual\Chem.Managment.Visual\obj\Debug\HomeSubstance.g.cs
+D:\Project\ChemProject\Chem.Managment.Visual\Chem.Managment.Visual\obj\Debug\LogMenu.g.cs
+D:\Project\ChemProject\Chem.Managment.Visual\Chem.Managment.Visual\obj\Debug\MainWindow.g.cs
+D:\Project\ChemProject\Chem.Managment.Visual\Chem.Managment.Visual\obj\Debug\Navegation.g.cs
+D:\Project\ChemProject\Chem.Managment.Visual\Chem.Managment.Visual\obj\Debug\ProgressDialog.g.cs
+D:\Project\ChemProject\Chem.Managment.Visual\Chem.Managment.Visual\obj\Debug\App.g.cs
+D:\Project\ChemProject\Chem.Managment.Visual\Chem.Managment.Visual\obj\Debug\GeneratedInternalTypeHelper.g.cs
+D:\Project\ChemProject\Chem.Managment.Visual\Chem.Managment.Visual\obj\Debug\Chem.Managment.Visual_MarkupCompile.cache
+D:\Project\ChemProject\Chem.Managment.Visual\Chem.Managment.Visual\obj\Debug\Chem.Managment.Visual_MarkupCompile.lref
+D:\Project\ChemProject\Chem.Managment.Visual\Chem.Managment.Visual\obj\Debug\HomeSubstance.baml
+D:\Project\ChemProject\Chem.Managment.Visual\Chem.Managment.Visual\obj\Debug\LogMenu.baml
+D:\Project\ChemProject\Chem.Managment.Visual\Chem.Managment.Visual\obj\Debug\MainWindow.baml
+D:\Project\ChemProject\Chem.Managment.Visual\Chem.Managment.Visual\obj\Debug\ProgressDialog.baml
+D:\Project\ChemProject\Chem.Managment.Visual\Chem.Managment.Visual\obj\Debug\Chem.Managment.Visual.g.resources
+D:\Project\ChemProject\Chem.Managment.Visual\Chem.Managment.Visual\obj\Debug\Chem.Managment.Visual.Properties.Resources.resources
+D:\Project\ChemProject\Chem.Managment.Visual\Chem.Managment.Visual\obj\Debug\Chem.Managment.Visual.csproj.GenerateResource.Cache
+D:\Project\ChemProject\Chem.Managment.Visual\Chem.Managment.Visual\obj\Debug\Chem.Managment.Visual.exe
+D:\Project\ChemProject\Chem.Managment.Visual\Chem.Managment.Visual\obj\Debug\Chem.Managment.Visual.pdb
+F:\Project\ChemProject\Chem.Managment.Visual\Chem.Managment.Visual\bin\Debug\Chem.Managment.Visual.exe.config
+F:\Project\ChemProject\Chem.Managment.Visual\Chem.Managment.Visual\obj\Debug\Chem.Managment.Visual.exe
+F:\Project\ChemProject\Chem.Managment.Visual\Chem.Managment.Visual\obj\Debug\Chem.Managment.Visual.pdb
+F:\Project\ChemProject\Chem.Managment.Visual\Chem.Managment.Visual\bin\Debug\Chem.Managment.Visual.exe
+F:\Project\ChemProject\Chem.Managment.Visual\Chem.Managment.Visual\bin\Debug\Chem.Managment.Visual.pdb
+F:\Project\ChemProject\Chem.Managment.Visual\Chem.Managment.Visual\bin\Debug\Chem.DataBase.dll
+F:\Project\ChemProject\Chem.Managment.Visual\Chem.Managment.Visual\bin\Debug\Codaxy.Xlio.dll
+F:\Project\ChemProject\Chem.Managment.Visual\Chem.Managment.Visual\bin\Debug\Codaxy.Xlio.XmlSerializers.dll
+F:\Project\ChemProject\Chem.Managment.Visual\Chem.Managment.Visual\bin\Debug\EntityFramework.dll
+F:\Project\ChemProject\Chem.Managment.Visual\Chem.Managment.Visual\bin\Debug\EntityFramework.SqlServer.dll
+F:\Project\ChemProject\Chem.Managment.Visual\Chem.Managment.Visual\bin\Debug\EntityFramework.SqlServerCompact.dll
+F:\Project\ChemProject\Chem.Managment.Visual\Chem.Managment.Visual\bin\Debug\ICSharpCode.SharpZipLib.dll
+F:\Project\ChemProject\Chem.Managment.Visual\Chem.Managment.Visual\bin\Debug\SearchTextBox.dll
+F:\Project\ChemProject\Chem.Managment.Visual\Chem.Managment.Visual\bin\Debug\System.Data.SqlServerCe.dll
+F:\Project\ChemProject\Chem.Managment.Visual\Chem.Managment.Visual\bin\Debug\System.Windows.Interactivity.dll
+F:\Project\ChemProject\Chem.Managment.Visual\Chem.Managment.Visual\bin\Debug\SearchTextBox.pdb
+F:\Project\ChemProject\Chem.Managment.Visual\Chem.Managment.Visual\bin\Debug\Chem.DataBase.pdb
+F:\Project\ChemProject\Chem.Managment.Visual\Chem.Managment.Visual\bin\Debug\Codaxy.Xlio.pdb
+F:\Project\ChemProject\Chem.Managment.Visual\Chem.Managment.Visual\bin\Debug\Codaxy.Xlio.xml
+F:\Project\ChemProject\Chem.Managment.Visual\Chem.Managment.Visual\bin\Debug\EntityFramework.xml
+F:\Project\ChemProject\Chem.Managment.Visual\Chem.Managment.Visual\bin\Debug\EntityFramework.SqlServer.xml
+F:\Project\ChemProject\Chem.Managment.Visual\Chem.Managment.Visual\bin\Debug\EntityFramework.SqlServerCompact.xml
+F:\Project\ChemProject\Chem.Managment.Visual\Chem.Managment.Visual\bin\Debug\System.Windows.Interactivity.xml
+F:\Project\ChemProject\Chem.Managment.Visual\Chem.Managment.Visual\bin\Debug\de\System.Windows.Interactivity.resources.dll
+F:\Project\ChemProject\Chem.Managment.Visual\Chem.Managment.Visual\bin\Debug\en\System.Windows.Interactivity.resources.dll
+F:\Project\ChemProject\Chem.Managment.Visual\Chem.Managment.Visual\bin\Debug\es\System.Windows.Interactivity.resources.dll
+F:\Project\ChemProject\Chem.Managment.Visual\Chem.Managment.Visual\bin\Debug\fr\System.Windows.Interactivity.resources.dll
+F:\Project\ChemProject\Chem.Managment.Visual\Chem.Managment.Visual\bin\Debug\it\System.Windows.Interactivity.resources.dll
+F:\Project\ChemProject\Chem.Managment.Visual\Chem.Managment.Visual\bin\Debug\ja\System.Windows.Interactivity.resources.dll
+F:\Project\ChemProject\Chem.Managment.Visual\Chem.Managment.Visual\bin\Debug\ko\System.Windows.Interactivity.resources.dll
+F:\Project\ChemProject\Chem.Managment.Visual\Chem.Managment.Visual\bin\Debug\zh-Hans\System.Windows.Interactivity.resources.dll
+F:\Project\ChemProject\Chem.Managment.Visual\Chem.Managment.Visual\bin\Debug\zh-Hant\System.Windows.Interactivity.resources.dll
+F:\Project\ChemProject\Chem.Managment.Visual\Chem.Managment.Visual\obj\Debug\Chem.Managment.Visual.csprojResolveAssemblyReference.cache
+F:\Project\ChemProject\Chem.Managment.Visual\Chem.Managment.Visual\obj\Debug\Details.baml
+F:\Project\ChemProject\Chem.Managment.Visual\Chem.Managment.Visual\obj\Debug\DocumentViewer.baml
+F:\Project\ChemProject\Chem.Managment.Visual\Chem.Managment.Visual\obj\Debug\HomeEntities.baml
+F:\Project\ChemProject\Chem.Managment.Visual\Chem.Managment.Visual\obj\Debug\Navegation.baml
+F:\Project\ChemProject\Chem.Managment.Visual\Chem.Managment.Visual\obj\Debug\App.baml
+F:\Project\ChemProject\Chem.Managment.Visual\Chem.Managment.Visual\obj\Debug\Details.g.cs
+F:\Project\ChemProject\Chem.Managment.Visual\Chem.Managment.Visual\obj\Debug\DocumentViewer.g.cs
+F:\Project\ChemProject\Chem.Managment.Visual\Chem.Managment.Visual\obj\Debug\HomeEntities.g.cs
+F:\Project\ChemProject\Chem.Managment.Visual\Chem.Managment.Visual\obj\Debug\HomeSubstance.g.cs
+F:\Project\ChemProject\Chem.Managment.Visual\Chem.Managment.Visual\obj\Debug\LogMenu.g.cs
+F:\Project\ChemProject\Chem.Managment.Visual\Chem.Managment.Visual\obj\Debug\MainWindow.g.cs
+F:\Project\ChemProject\Chem.Managment.Visual\Chem.Managment.Visual\obj\Debug\Navegation.g.cs
+F:\Project\ChemProject\Chem.Managment.Visual\Chem.Managment.Visual\obj\Debug\ProgressDialog.g.cs
+F:\Project\ChemProject\Chem.Managment.Visual\Chem.Managment.Visual\obj\Debug\App.g.cs
+F:\Project\ChemProject\Chem.Managment.Visual\Chem.Managment.Visual\obj\Debug\GeneratedInternalTypeHelper.g.cs
+F:\Project\ChemProject\Chem.Managment.Visual\Chem.Managment.Visual\obj\Debug\Chem.Managment.Visual_MarkupCompile.cache
+F:\Project\ChemProject\Chem.Managment.Visual\Chem.Managment.Visual\obj\Debug\Chem.Managment.Visual_MarkupCompile.lref
+F:\Project\ChemProject\Chem.Managment.Visual\Chem.Managment.Visual\obj\Debug\HomeSubstance.baml
+F:\Project\ChemProject\Chem.Managment.Visual\Chem.Managment.Visual\obj\Debug\LogMenu.baml
+F:\Project\ChemProject\Chem.Managment.Visual\Chem.Managment.Visual\obj\Debug\MainWindow.baml
+F:\Project\ChemProject\Chem.Managment.Visual\Chem.Managment.Visual\obj\Debug\ProgressDialog.baml
+F:\Project\ChemProject\Chem.Managment.Visual\Chem.Managment.Visual\obj\Debug\Chem.Managment.Visual.g.resources
+F:\Project\ChemProject\Chem.Managment.Visual\Chem.Managment.Visual\obj\Debug\Chem.Managment.Visual.Properties.Resources.resources
+F:\Project\ChemProject\Chem.Managment.Visual\Chem.Managment.Visual\obj\Debug\Chem.Managment.Visual.csproj.GenerateResource.Cache
+F:\Project\ChemProject\Chem.Managment.Visual\Chem.Managment.Visual\bin\Debug\PdfiumViewer.dll
+F:\Project\ChemProject\Chem.Managment.Visual\Chem.Managment.Visual\bin\Debug\PdfiumViewer.pdb
+F:\Project\ChemProject\Chem.Managment.Visual\Chem.Managment.Visual\bin\Debug\nl\PdfiumViewer.resources.dll

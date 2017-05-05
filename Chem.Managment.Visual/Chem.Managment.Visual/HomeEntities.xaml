@@ -1,0 +1,32 @@
+﻿<Page x:Class="Chem.Managment.Visual.HomeEntities"
+      xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+      xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+      xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+      xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+      mc:Ignorable="d" 
+      xmlns:UIControls="clr-namespace:UIControls;assembly=SearchTextBox" 
+	Title="Entidades">
+
+    <ScrollViewer HorizontalScrollBarVisibility="Auto">
+        <Grid  >
+            <DataGrid x:Name="dataGrid" AutoGenerateColumns="False"  EnableRowVirtualization="True" ItemsSource="{Binding}" Margin="10,36,10,10" RowDetailsVisibilityMode="VisibleWhenSelected" Foreground="#FFF7F3F3">
+                <DataGrid.Columns>                    
+                    <DataGridTextColumn  Binding="{Binding Name}" Header="Nombre" IsReadOnly="True"/>
+                    <DataGridTextColumn  Binding="{Binding Address}" Header="Dirección" IsReadOnly="True"/>
+                    <DataGridTextColumn  Binding="{Binding Town}" Header="Municipio" IsReadOnly="True"/>
+                    <DataGridTextColumn  Binding="{Binding Coord_x}" Header="Coordenada x" IsReadOnly="True"/>
+                    <DataGridTextColumn  Binding="{Binding Coord_y}" Header="Coordenada y" IsReadOnly="True"/>
+                    <DataGridTextColumn  Binding="{Binding Organization}" Header="Oganización" IsReadOnly="True"/>
+                    <DataGridTextColumn  Binding="{Binding Phone}" Header="Telefono" IsReadOnly="True"/>
+                    <DataGridTextColumn  Binding="{Binding Email}" Header="Correo Electrónico" IsReadOnly="True"/>
+                    <DataGridTextColumn  Binding="{Binding Fax}" Header="Fax" IsReadOnly="True"/>
+
+                </DataGrid.Columns>
+            </DataGrid>
+
+            <UIControls:SearchTextBox Margin="10,10,0,0" TextWrapping="Wrap"  Name="searchEntity" Height="22" VerticalAlignment="Top" HorizontalAlignment="Left" Width="220"  />
+
+        </Grid>
+    </ScrollViewer>
+
+</Page>
